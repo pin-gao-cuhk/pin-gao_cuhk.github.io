@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="https://www.dropbox.com/s/l34hxkripyaomv2/CV_pingao.pdf?dl=0" target="_blank"><span style="color:blue">[Pin's CV]</span></a>
+<a href="https://www.dropbox.com/s/l34hxkripyaomv2/CV_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
 ## Research Interests
 Dynamic Programming, Choice Models, Mechanism Design, Search Models.
@@ -17,9 +17,9 @@ Dynamic Programming, Choice Models, Mechanism Design, Search Models.
 I am particularly interested in the operational issues of digital platforms, recommender systems and product innovation.
 
 ## Education
-- Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:blue">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:blue">HKUST</span></a>,  2017 - Present
+- Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
 
-  Advisors: Prof. <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and Prof. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
+  Advisors: Prof. <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and Prof. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Ningyuan Chen</span></a>.
   
 - M.Phil., Theoretical Physics, HKUST, 2013 - 2015
 
