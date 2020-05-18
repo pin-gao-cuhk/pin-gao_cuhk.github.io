@@ -87,7 +87,7 @@ author:
 #   employer         :
 # cv : "https://www.dropbox.com/s/4njs1lddfrtbax5/CV_pingao.pdf?dl=0"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : <a href="https://scholar.google.com/citations?user=eRF2QvAAAAAJ&hl=en" target="_blank"><span style="color:black">Google Scholar</span></a>
+  googlescholar    : "https://scholar.google.com/citations?user=eRF2QvAAAAAJ&hl=en"
   email            : "pgao@connect.ust.hk"
   researchgate     : "https://www.researchgate.net/profile/Pin_Gao5"
   uri              :
