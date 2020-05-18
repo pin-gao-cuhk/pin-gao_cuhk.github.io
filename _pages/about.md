@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[[<span style="color:blue">Pin's CV</span>]](./CV_pingao.pdf)
+<a href="https://www.dropbox.com/s/l34hxkripyaomv2/CV_pingao.pdf?dl=0" target="_blank"><span style="color:blue">[Pin's CV]</span></a>
+
 ## Research Interests
 Dynamic Programming, Choice Models, Mechanism Design, Search Models.
 
