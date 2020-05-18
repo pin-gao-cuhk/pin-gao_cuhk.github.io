@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name “”
+name                     : &name ""
 description              : &description "Pin Gao"
 url                      : https://pin-gao-hkust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,11 +82,7 @@ analytics:
 author:
   name             : "Pin Gao 高品"
   avatar           : "pg.jpeg"
-  bio              : "Ph.D. Candidate, HKUST
-                      pgao[at]connect.ust.hk
-                      pgao[at]connect.ust.hk
-                      pgao[at]connect.ust.hk
-                      pgao[at]connect.ust.hk"
+  bio              : "Ph.D. Candidate, HKUST"
   
   location         : "Hong Kong, China"
 #   employer         :
