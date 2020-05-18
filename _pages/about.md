@@ -14,7 +14,7 @@ redirect_from:
 ## Research Interests
 Dynamic Programming, Choice Models, Mechanism Design, Search Models.
 
-I am particularly interested in the operational issues of digital platforms, recommender systems andproduct innovation.
+I am particularly interested in the operational issues of digital platforms, recommender systems and product innovation.
 
 ## Education
 - Ph.D., Industrial Engineering and Decision Analytics, HKUST,  2017 - Present
