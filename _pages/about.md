@@ -12,9 +12,9 @@ redirect_from:
 
 [[<span style="color:blue">Pin's CV</span>]](./CV_pingao.pdf)
 ## Research Interests
-- Revenue Management and Pricing Analytics
-- Mechanism Design
-- Search Models
+Dynamic Programming, Choice Models, Mechanism Design, Search Models.
+
+I am particularly interested in the operational issues of digital platforms, recommender systems andproduct innovation.
 
 ## Education
 - Ph.D., Industrial Engineering and Decision Analytics, HKUST,  2017 - Present
