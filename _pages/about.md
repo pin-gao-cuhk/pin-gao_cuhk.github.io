@@ -29,7 +29,7 @@ I am particularly interested in the operational issues of digital platforms, rec
 - Quant and Product Associate, BitPower (FinTech), Shenzhen,  2016 - 2017
 - Data and Business Analyst, UqiAuto (Supply Chain Management), Beijing, 2015 - 2016
 
-<HR style="border:1 dashed #987cb9" width="80%" color=#987cb9 SIZE=1>
+<HR style="border:1 dashed #987cb9" color=#987cb9 SIZE=2>
   
 #### With all lowliness and meekness, with long-suffering, bearing one another in love. 
 #### 凡事卑微、温柔、恒忍，在爱里彼此担就.
