@@ -30,6 +30,7 @@ I am particularly interested in the operational issues of digital platforms, rec
 - Data and Business Analyst, UqiAuto (Supply Chain Management), Beijing, 2015 - 2016
 
 <HR SIZE=2>
+  
 #### With all lowliness and meekness, with long-suffering, bearing one another in love. 
 #### 凡事卑微、温柔、恒忍，在爱里彼此担就.
 #### Ephesians 4:2
