@@ -33,7 +33,7 @@ Many innovative products are designed to satisfy the demand of specific target c
 
 ## Working Papers
 
-[4]. Gao, Pin, Kanglin Chen and [<span style="color:black">Ying-Ju Chen</span>](https://imchen.people.ust.hk/), “Dynamic Project Selection”, in preparation for submission.
+[4]. Gao, Pin, Kanglin Chen and [<span style="color:black">Ying-Ju Chen</span>](https://imchen.people.ust.hk/), “ptimal Sequence and Duration of PersonalizedProduct Recommendation”, in preparation for submission.
 
 [5]. [<span style="color:black">Chen, Ningyuan</span>](http://individual.utoronto.ca/ningyuanchen/), Pin Gao and [<span style="color:black">Yang li</span>](https://www.bschool.cuhk.edu.hk/staff/li-yang/), “Personalized Product Recommendation in Presence of Privacy Constraint”, working in progress.
 
