@@ -34,5 +34,5 @@ I am particularly interested in the operational issues of digital platforms, rec
 #### With all lowliness and meekness, with long-suffering, bearing one another in love. 
 #### 凡事卑微、温柔、恒忍，在爱里彼此担就.
 #### Ephesians 4:2
-
-<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/tsing-yi-52898"><img src="https://w.bookcdn.com/weather/picture/2_52898_1_1_009fa0_350_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=124&domid=w209&anc_id=86445"  alt="booked.net"/></a><!-- weather widget end -->
+<p align="right">
+<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/tsing-yi-52898"><img src="https://w.bookcdn.com/weather/picture/2_52898_1_1_009fa0_350_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=124&domid=w209&anc_id=86445"  alt="booked.net"/></a><!-- weather widget end --></p>
