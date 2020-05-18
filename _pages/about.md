@@ -22,7 +22,7 @@ I am particularly interested in the operational issues of digital platforms, rec
   
 - M.Phil., Theoretical Physics, HKUST, 2013 - 2015
 
-- B.Sc., Physics（Base Class), Wuhan University, 2009 - 2013.
+- B.Sc., Physics (Base Class), Wuhan University, 2009 - 2013.
 
 ## Industry Experience
 - Operations Consultant, Yiqixing (Transportation), Zhengzhou, 2019 - Present
