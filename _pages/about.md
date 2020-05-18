@@ -17,7 +17,7 @@ Dynamic Programming, Choice Models, Mechanism Design, Search Models.
 I am particularly interested in the operational issues of digital platforms, recommender systems and product innovation.
 
 ## Education
-- Ph.D., Industrial Engineering and Decision Analytics, HKUST,  2017 - Present
+- Ph.D., Industrial Engineering and Decision Analytics, [HKUST](https://www.ust.hk/home),  2017 - Present
 
   Advisors: Prof. [<span style="color:blue">Guillermo Gallego</span>](https://ieda.ust.hk/dfaculty/ggallego/) and Prof. [<span style="color:blue">Ningyuan Chen</span>](http://individual.utoronto.ca/ningyuanchen/).
   
