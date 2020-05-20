@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /research/ 
     
-  - title: "Posts"
-    url: /year-archive/
+#   - title: "Posts"
+#     url: /year-archive/
 
   - title: "Others"
     url: /others/    
