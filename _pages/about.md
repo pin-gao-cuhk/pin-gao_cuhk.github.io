@@ -25,7 +25,9 @@ I am particularly interested in the operational issues of digital platforms, rec
   
 - M.Phil., Theoretical Physics, HKUST, 2013 - 2015
 
-- B.Sc., Physics (Base Class), Wuhan University, 2009 - 2013
+Advisor: Prof. <a href="https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:black">Tai-Kai Ng</span></a>.
+
+- B.Sc., Physics (Base Class), <a href="https://en.whu.edu.cn/" target="_blank"><span style="color:black">Wuhan University</span></a>, 2009 - 2013
 
 ## Industry Experience
 - Operations Consultant, Yiqixing (Transportation), Zhengzhou, 2019 - Present
