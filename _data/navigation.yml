@@ -9,5 +9,5 @@ main:
   - title: "Others"
     url: /others/    
     
-#   - title: "Guide"
-#     url: /markdown/
+  - title: "Blog"
+    url: /blog/
