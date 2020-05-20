@@ -10,18 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-## Teaching Assistant  
-Responsible for tutorials and marking  
-- System Simulation, IEDA4130, HKUST, Spring 2020
-  - Lead weekly python programing lab
-  - Prepare teaching materials and examples
-- Engineering Statistics, IEDA5270, HKUST, Fall 2018, Fall 2019  
-- Financial Engineering and Risk Managemement, EEMT5530, HKUST, Spring 2019  
-- Queueing Theory, IEDA6100G, HKUST, Fall 2018  
-- Quantitative Methods in Financial Engineering, IELM4331, HKUST, Spring 2018 
-
 ## Invited Talks  
 A Sequential Recommendation and Selection Model  
 - INFORMS 2020 Annual Meeting, USA, 2020  
@@ -29,6 +17,18 @@ A Sequential Recommendation and Selection Model
 Dealership or Marketplace: A Dynamic Comparison  
 - POMS-HK International Conference, Hong Kong, 2019  
 - MSOM Conference, Singapore, 2019
+
+## Teaching Assistant   
+- System Simulation, IEDA4130, HKUST, Spring 2020
+  - Lead weekly python programing lab
+  - Prepare teaching materials and examples
+  - Marking
+- Engineering Statistics, IEDA5270, HKUST, Fall 2018, Fall 2019 
+- Financial Engineering and Risk Managemement, EEMT5530, HKUST, Spring 2019  
+- Queueing Theory, IEDA6100G, HKUST, Fall 2018  
+- Quantitative Methods in Financial Engineering, IELM4331, HKUST, Spring 2018 
+
+
 
 ## Honors and Awards  
 - Leader, National College Students’ Innovative Experiment, Wuhan Univeristy, China, 2012 - 2013  
