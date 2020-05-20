@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+Wellcome to my website!
+
 <a href="https://www.dropbox.com/s/3brum0rp71b95f3/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
 ## Research Interests
