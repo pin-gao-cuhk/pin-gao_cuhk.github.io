@@ -29,7 +29,7 @@ Dealership or Marketplace: A Dynamic Comparison
 - Quantitative Methods in Financial Engineering, IELM4331, HKUST, Spring 2018 
 
 ## Programming
-Python, Matlab, Mathematics, Latex, Markdown
+Python, Matlab, Mathematica, Latex, Markdown
 ## Honors and Awards  
 - Leader, National College Students’ Innovative Experiment, Wuhan Univeristy, China, 2012 - 2013  
 - National Inspirational Scholarship, Wuhan Univeristy, China, 2012  
