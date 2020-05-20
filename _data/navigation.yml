@@ -4,10 +4,12 @@ main:
 #     url: /home/
     
   - title: "Research"
-    url: /research/    
+    url: /research/ 
+    
+  - title: "Posts"
+    url: /year-archive/
 
   - title: "Others"
     url: /others/    
     
-  - title: "Blog"
-    url: /year-archive/
+
