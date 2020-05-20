@@ -16,6 +16,7 @@ redirect_from:
 Responsible for tutorials and marking  
 - System Simulation, IEDA4130, HKUST, Spring 2020  
 -- Lead weekly python programing lab
+
 -- Prepare teaching materials and examples
 - Engineering Statistics, IEDA5270, HKUST, Fall 2018, Fall 2019  
 - Financial Engineering and Risk Managemement, EEMT5530, HKUST, Spring 2019  
