@@ -15,7 +15,8 @@ redirect_from:
 ## Teaching Assistant  
 Responsible for tutorials and marking  
 - System Simulation, IEDA4130, HKUST, Spring 2020  
--- af
+-- Lead weekly python programing lab
+-- Prepare teaching materials and examples
 - Engineering Statistics, IEDA5270, HKUST, Fall 2018, Fall 2019  
 - Financial Engineering and Risk Managemement, EEMT5530, HKUST, Spring 2019  
 - Queueing Theory, IEDA6100G, HKUST, Fall 2018  
