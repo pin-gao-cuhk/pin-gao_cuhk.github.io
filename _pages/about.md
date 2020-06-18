@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 Welcome to my website!
 
-<a href="https://www.dropbox.com/s/3brum0rp71b95f3/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
+<a href="https://www.dropbox.com/s/xtdze3nmvpkixh6/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
 ## Research Interests
 Dynamic Programming, Choice Models, Mechanism Design, Search Models.
