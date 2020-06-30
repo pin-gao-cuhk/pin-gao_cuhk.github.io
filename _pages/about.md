@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 Welcome to my website!
 
-<div id="sfca65yz9mwqd6fhn1rfutkx62b9g3mbg36"></div><noscript><a href="https://www.freecounterstat.com" title="website counter widget"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=a65yz9mwqd6fhn1rfutkx62b9g3mbg36" border="0" title="website counter widget" alt="website counter widget"></a></noscript>
+
 
 <a href="https://www.dropbox.com/s/xtdze3nmvpkixh6/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
@@ -36,6 +36,7 @@ I am particularly interested in the operational issues of digital platforms, rec
 - Quant and Product Associate, BitPower (FinTech), Shenzhen,  2016 - 2017
 - Data and Business Analyst, UqiAuto (Supply Chain Management), Beijing, 2015 - 2016
 
+<div id="sfca65yz9mwqd6fhn1rfutkx62b9g3mbg36"></div><noscript><a href="https://www.freecounterstat.com" title="website counter widget"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=a65yz9mwqd6fhn1rfutkx62b9g3mbg36" border="0" title="website counter widget" alt="website counter widget"></a></noscript>
 ***
   
 #### With all lowliness and meekness, with long-suffering, bearing one another in love. 
