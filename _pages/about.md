@@ -37,6 +37,7 @@ I am particularly interested in the operational issues of digital platforms, rec
 - Data and Business Analyst, UqiAuto (Supply Chain Management), Beijing, 2015 - 2016
 
 <div id="sfca65yz9mwqd6fhn1rfutkx62b9g3mbg36"></div><noscript><a href="https://www.freecounterstat.com" title="website counter widget"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=a65yz9mwqd6fhn1rfutkx62b9g3mbg36" border="0" title="website counter widget" alt="website counter widget"></a></noscript>
+
 ***
   
 #### With all lowliness and meekness, with long-suffering, bearing one another in love. 
