@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 Welcome to my website!
 
-<div id="sfca65yz9mwqd6fhn1rfutkx62b9g3mbg36"></div><script type="text/javascript" src="https://counter3.stat.ovh/private/counter.js?c=a65yz9mwqd6fhn1rfutkx62b9g3mbg36&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="website counter widget"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=a65yz9mwqd6fhn1rfutkx62b9g3mbg36" border="0" title="website counter widget" alt="website counter widget"></a></noscript>
+<div id="sfca65yz9mwqd6fhn1rfutkx62b9g3mbg36"></div><script type="text/javascript" src="https://counter3.stat.ovh/private/counter.jsc=a65yz9mwqd6fhn1rfutkx62b9g3mbg36&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="website counter widget"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=a65yz9mwqd6fhn1rfutkx62b9g3mbg36" border="0" title="website counter widget" alt="website counter widget"></a></noscript>
 
 <a href="https://www.dropbox.com/s/xtdze3nmvpkixh6/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
