@@ -34,11 +34,12 @@ Many innovative products are designed to satisfy the demand of specific target c
 
 ## Working Papers
 
-[4]. Gao, Pin, Kanglin Chen, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “Optimal Sequence and Duration of Personalized Product Recommendation”, in preparation for submission.
+[4]. Kanglin Chen, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and Pin Gao, “Optimal Sequence and Duration of Personalized Product Recommendation”, in preparation for submission.
 
 [5]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Personalized Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
 
-[6]. Gao, Pin, <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, and <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “Auction Design in Live Commerce Markets”, in preparation for submission.
+[6]. <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, and , “ 
+Position Auction With Auctioneer’s Intervention On Ad Content”, in preparation for submission.
 
 ## Other Publications
 
