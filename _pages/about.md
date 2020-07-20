@@ -16,9 +16,9 @@ Welcome to my website!
 <a href="https://www.dropbox.com/s/xtdze3nmvpkixh6/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
 ## Research Interests
-Dynamic Programming, Choice Models, Mechanism Design, Search Models.
+Dynamic Programming, Choice Models, Mechanism Design, Algorithmic Game Theory.
 
-I am particularly interested in the operational issues of digital platforms, recommender systems and product innovation.
+I am particularly interested in the operational issues of emerging digital platforms, recommender systems.
 
 ## Education
 - Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
