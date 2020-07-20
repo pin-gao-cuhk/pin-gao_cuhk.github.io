@@ -12,7 +12,13 @@ redirect_from:
 ## Job Market Paper
 
 [1]. Gao Pin, <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> , “ 
-Position Auction With Platform’s Intervention On Ad Content”, in preparation for submission.
+Position Auction With Platform’s Intervention”, in preparation for submission.
+
+<details>
+<summary>Abstract</summary><sub>
+We study a position auction problem in which the revenue-maximizing auctioneer (platform) can use intervention to change the conditional click-through rate and per-click profit of each advertisement of the bidder (seller). This problem is related to live commercial markets, where the live broadcaster can determine the information presentation strategy. First, we show that it is NP-hard to find the optimal mechanism for the platform, and we provide a simple near-optimal mechanism that achieves a tight constant bound of the revenue in the optimal mechanism. Second, we use special cases to illustrate that intervention will greatly change the price charing and position allocation rules: With (without) intervention, a higher type of seller may (will always) be allocated a lower (higher) position, and charged a lower (higher) per-click price. In addition, we find that intervention improves the platform’s ability to discriminate sellers and at the same time encourages the platform to serve more sellers and softens the sellers' competition, achieving a win-win situation.
+  </sub>
+</details>
 
 ## Submitted Papers
 
