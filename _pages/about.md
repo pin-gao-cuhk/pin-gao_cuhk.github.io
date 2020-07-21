@@ -13,7 +13,7 @@ Welcome to my website!
 
 
 
-<a href="https://www.dropbox.com/s/335yvc4jurac2ea/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
+<a href="https://www.dropbox.com/s/wbnh8939zvs3gkp/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
 ## Research Interests
 Revenue Management, Mechanism Design, Algorithmic Game Theory.
