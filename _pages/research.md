@@ -16,7 +16,7 @@ Position Auction With Platform’s Intervention”, in preparation for submissio
 
 <details>
 <summary>Abstract</summary><sub>
-We study a position auction problem in which the revenue-maximizing auctioneer (platform) can use intervention to change the conditional click-through rate and per-click profit of each advertisement of the bidder (seller). This problem relates to live commercial markets, where the live broadcaster can determine the information presentation strategy. First, we show that it is NP-hard to find the optimal mechanism, and we provide a simple near-optimal mechanism that achieves a tight constant bound. Second, we illustrate that intervention will greatly change the price charing and position allocation rules: With (without) intervention, a higher type of seller may (will always) be allocated a lower (higher) position, and charged a lower (higher) per-click price. In addition, we find that intervention can improve the platform’s ability to discrimnate on sellers, while providing services to more sellers and reducing sellers’ competition, thus achieving a win-win situation.
+We study a position auction problem with intervention. Finding the optimal mechanism is NP-Hard, while a simple mechanism provides a tight constant bound. The non-trivial impact of intervention on the allocation and payment rules is studied.  
   </sub>
 </details>
 
