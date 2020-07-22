@@ -32,8 +32,6 @@ We propose a sequential recommendation-selection model where a seller recommends
 </details>
 
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3658157
-
 
 [3]. Gao, Pin, <a href="http://xfanaf.student.ust.hk/" target="_blank"><span style="color:black">Xiaoshuai Fan</span></a>, <a href="https://sites.google.com/site/sunnyelan/" target="_blank"><span style="color:black">Sunny Huang</span></a> and <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, 
 “<a href="https://www.researchgate.net/publication/343125047_Resource_Allocation_Among_Competing_Innovators" target="_blank"><span style="color:black">Resource Allocation Among Competing Innovators</span></a>”, under Major revision at at *Management Science*. <a href="https://www.dropbox.com/s/4f59daboln8w2i0/investment.pdf?dl=0" target="_blank"><span style="color:black">[PDF]</span></a>
