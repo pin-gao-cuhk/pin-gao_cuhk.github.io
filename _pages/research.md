@@ -49,9 +49,11 @@ We consider two business models for a two-sided economy under uncertainty: deale
 
 ## Working Papers
 
-[6]. Kanglin Chen, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and Pin Gao, “Optimal Sequence and Duration of Personalized Product Recommendation”, in preparation for submission.
+[6]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Personalized Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
 
-[7]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Personalized Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
+[7]. Chen, Kanglin, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and Pin Gao, “Optimal Sequence and Duration of Personalized Product Recommendation”, in preparation for submission.
+
+
 
 ## Other Publications
 
