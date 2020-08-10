@@ -10,9 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Invited Talks  
-A Sequential Recommendation and Selection Model  
+## Talks  
+Position Auction With Platform’s Intervention  
 - INFORMS 2020 Annual Meeting, USA, 2020  
+
+Resource Allocation Among Competing Innovators
+- INFORMS 2020 Annual Meeting, USA, 2020 (presented by coauthor) 
 
 Dealership or Marketplace: A Dynamic Comparison  
 - POMS-HK International Conference, Hong Kong, 2019  
