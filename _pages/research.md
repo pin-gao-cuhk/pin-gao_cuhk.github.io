@@ -65,6 +65,8 @@ We consider two business models for a two-sided economy under uncertainty: deale
 
 ---------
 
-Don't worry about the overall importance of the problem; work on it if it looks interesting. I think there's a sufficient correlation between interest and importance.
+Don't worry about the overall importance of the problem; work on it if it looks interesting. 
+
+I think there's a sufficient correlation between interest and importance.
 
 — David Blackwell
