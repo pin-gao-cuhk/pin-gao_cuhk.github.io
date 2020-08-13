@@ -34,19 +34,19 @@ We  develop  a  variant  of  the  multinomial  logit  model  with  impatient  cu
 </details>
 
 
+[3]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bu.edu/questrom/profile/steven-kou/" target="_blank"><span style="color:black">Steven Kou</span></a>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3673161" target="_blank"><span style="color:black">Does the Prohibition of Trade-Through Hurt Liquidity Demanders?</span></a>”, under 2nd round Major review at *Operations Research*. 
+<details>
+<summary>Abstract</summary><sub>
+The Order Protect Rule in the U.S. generally prohibits any trade-through, i.e., a market order that is not executed at the best possible price among fast (i.e. electronic and automated) trading venues. We conduct a counterfactual analysis comparing the order execution costs of a liquidity demander when trade-through is allowed versus prohibited. By deriving upper and lower bounds for the costs, we find that the trade-through benefit is marginal for small trades and stocks with fast resilience. In particular, our study suggests that the current separate regulations for fast and slow venues may be extended to differentiate stocks with fast and slow resilience speeds.</sub>
+</details>
 
-[3]. Gao, Pin, <a href="http://xfanaf.student.ust.hk/" target="_blank"><span style="color:black">Xiaoshuai Fan</span></a>, <a href="https://sites.google.com/site/sunnyelan/" target="_blank"><span style="color:black">Sunny Huang</span></a> and <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, 
+[4]. Gao, Pin, <a href="http://xfanaf.student.ust.hk/" target="_blank"><span style="color:black">Xiaoshuai Fan</span></a>, <a href="https://sites.google.com/site/sunnyelan/" target="_blank"><span style="color:black">Sunny Huang</span></a> and <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, 
 “<a href="https://www.researchgate.net/publication/343125047_Resource_Allocation_Among_Competing_Innovators" target="_blank"><span style="color:black">Resource Allocation Among Competing Innovators</span></a>”, under 1st round Major revision at at *Management Science*. <a href="https://www.dropbox.com/s/4f59daboln8w2i0/investment.pdf?dl=0" target="_blank"><span style="color:black">[PDF]</span></a>
 <details>
 <summary>Abstract</summary><sub>
 Many innovative products are designed to satisfy the demand of specific target consumers, and thus innovators with new products will inevitably compete with each other in the post-innovation market. We investigate how should a profit-maximizing principal properly allocate her limited resources to support the innovations of multiple potentially competing innovators. We find that as the available resources increase, the number of agents receiving resources may first increase and then decrease. This interesting nonmonotone pattern is driven by a trade-off between the risk of innovation failure and rent dissipation due to competition. The results are robust to incorporating an endogenous profit-sharing rule and costly resources. Using the framework, we also analyze a nonprofit principal seeking to maximize the total number of successful innovations, the probability of at least one innovator succeeding, consumer surplus, and total social welfare.</sub>
 </details>
 
-[4]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bu.edu/questrom/profile/steven-kou/" target="_blank"><span style="color:black">Steven Kou</span></a>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3673161" target="_blank"><span style="color:black">Does the Prohibition of Trade-Through Hurt Liquidity Demanders?</span></a>”, under 1st round Major revision at *Operations Research*. 
-<details>
-<summary>Abstract</summary><sub>
-The Order Protect Rule in the U.S. generally prohibits any trade-through, i.e., a market order that is not executed at the best possible price among fast (i.e. electronic and automated) trading venues. We conduct a counterfactual analysis comparing the order execution costs of a liquidity demander when trade-through is allowed versus prohibited. By deriving upper and lower bounds for the costs, we find that the trade-through benefit is marginal for small trades and stocks with fast resilience. In particular, our study suggests that the current separate regulations for fast and slow venues may be extended to differentiate stocks with fast and slow resilience speeds.</sub>
-</details>
 
 
 
