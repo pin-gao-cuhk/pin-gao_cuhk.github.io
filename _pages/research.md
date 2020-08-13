@@ -17,7 +17,7 @@ A mechanism design perspective of live-streaming commerce: the role of informati
 
 <details>
 <summary>Abstract</summary><sub>
-We model the live streamer's problem as a mechanism with information intervention. Finding the optimal mechanism is NP-Hard, while a simple mechanism provides a tight constant bound. The non-trivial impact of intervention on the allocation and payment rules is studied.  
+We model the live streamer's problem as a mechanism design problem with information intervention. Finding the optimal mechanism is NP-Hard, while a simple mechanism provides a tight constant bound. The non-trivial impact of intervention on the allocation and payment rules is studied.  
   </sub>
 </details>
 
