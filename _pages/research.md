@@ -11,12 +11,13 @@ redirect_from:
 {% include base_path %}
 ## Job Market Paper
 
+
 [1]. Gao Pin, <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> , “ 
-Position Auction With Platform’s Intervention”, in preparation for submission.
+A mechanism design perspective of live-streaming commerce: the role of information intervetion”, in preparation for submission.
 
 <details>
 <summary>Abstract</summary><sub>
-We study a position auction problem with intervention. Finding the optimal mechanism is NP-Hard, while a simple mechanism provides a tight constant bound. The non-trivial impact of intervention on the allocation and payment rules is studied.  
+We model the live streamer's problem as a mechanism with information intervention. Finding the optimal mechanism is NP-Hard, while a simple mechanism provides a tight constant bound. The non-trivial impact of intervention on the allocation and payment rules is studied.  
   </sub>
 </details>
 
