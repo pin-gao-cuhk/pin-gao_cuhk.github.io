@@ -16,7 +16,7 @@ redirect_from:
 
 <details>
 <summary>Abstract</summary><sub>
-   Live-streaming e-commerce has been emerging as a new trend of online shopping. Amazon and Alibaba both embrace this novel marketing tool to engage customers by sequentially demonstrating different products for choice. In this paper, we use a mechanism design framework to demonstrate how the live-streaming platform can leverage information provision to improve its advertisement revenue from traditional position auctions. We show that the revenue loss from neglecting information intervention can be arbitrarily large. However, solving for the optimal mechanism is NP-hard. We thus develop a heuristic that guarantees a revenue at least as half as the optimal one. At last, we show that with information intervention, a seller with a higher type may be allocated a lower position, whose per-click payment can also be lower.  
+   Live-streaming e-commerce has been emerging as a new trend of online shopping. Amazon and Alibaba both embrace this novel marketing tool to engage customers by sequentially demonstrating different products for choice. In this paper, we use a mechanism design framework to demonstrate how the live-streaming platform can leverage information provision to improve its advertisement revenue from traditional position auctions. We show that the revenue loss from neglecting information intervention can be arbitrarily large. However, solving for the optimal mechanism is NP-hard. We thus develop a heuristic that guarantees a revenue at least as half as the optimal one. At last, we show that with information intervention, a more profitable seller may be allocated a lower position, whose per-click payment can also be lower.  
   </sub>
 </details>
 
