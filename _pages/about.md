@@ -17,7 +17,7 @@ Welcome to my website!
 
 ## Research Interests
 
-Revenue Management, Approximation Algorithm, Mechanism Design and Innovation.
+Revenue Management, Approximation Algorithm, Mechanism Design.
 
 Particularly interested in the operational issues of emerging digital platforms, recommender systems.
 
