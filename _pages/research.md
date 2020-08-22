@@ -75,8 +75,11 @@ A platform recommends a product from a set of horizontally differentiated ones s
 
 ## Other Publications
 
-[8]. Gao, Pin, Yingping He and [<span style="color:black">Xiongjun Liu</span>](https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm), “Symmetry-Protected Non-Abelian Braiding of Majorana Kramers’ Pairs”, *Phys. Rev. B 94, 224509 (2016)*.
-
+[8]. Gao, Pin, Yingping He and [<span style="color:black">Xiongjun Liu</span>](https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm), “<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224509" target="_blank"><span style="color:black">Symmetry-Protected Non-Abelian Braiding of Majorana Kramers’ Pairs</span></a>”, *Phys. Rev. B 94, 224509 (2016)*.
+<details>
+<summary>Abstract</summary><sub>
+We develop a complete theory for symmetry protected non-Abelian statistics of Majorana Kramers' pairs (MKPs) in time-reversal (TR) invariant topological superconductors, with fundamental results being uncovered. By introducing an effective Hamiltonian approach to describe the braiding of MKPs, we show that the non-Abelian braiding is protected when the effective Hamiltonian exhibits a new TR-like antiunitary symmetry, which is satisfied if the system is free of dynamical noise. Importantly, even the dynamical noise cannot cause error in braiding, unless the noise correlation function breaks a dynamical TR symmetry. This is a profound result and generalizes the TR symmetry protection of MKPs to the dynamical regime. Moreover, the resulted error by noise is shown to be a higher-order effect, compared with the decoherence of Majorana qubits without TR symmetry protection. This study completes the theory of symmetry-protected non-Abelian statistics of MKPs, and shows that the non-Abelian braiding of MKPs is well observable and may have versatile applications to future quantum computation technologies.
+</sub></details>
 ---------
 
 Don't worry about the overall importance of the problem; work on it if it looks interesting. 
