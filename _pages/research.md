@@ -46,10 +46,6 @@ The Order Protect Rule in the U.S. generally prohibits any trade-through, i.e., 
 Many innovative products are designed to satisfy the demand of specific target consumers, and thus innovators with new products will inevitably compete with each other in the post-innovation market. We investigate how should a profit-maximizing principal properly allocate her limited resources to support the innovations of multiple potentially competing innovators. We find that as the available resources increase, the number of agents receiving resources may first increase and then decrease. This interesting nonmonotone pattern is driven by a trade-off between the risk of innovation failure and rent dissipation due to competition. The results are robust to incorporating an endogenous profit-sharing rule and costly resources. Using the framework, we also analyze a nonprofit principal seeking to maximize the total number of successful innovations, the probability of at least one innovator succeeding, consumer surplus, and total social welfare.</sub>
 </details>
 
-
-
-
-
 [5]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao and <a href="https://www.bu.edu/questrom/profile/steven-kou/" target="_blank"><span style="color:black">Steven Kou</span></a>, “<a href="https://www.researchgate.net/publication/336906849_Dealership_or_Marketplace_A_Dynamic_Comparison" target="_blank"><span style="color:black">Dealership or Marketplace: A Dynamic Comparison</span></a>”, under review at *Management Science*. <a href="https://www.dropbox.com/s/lqi5j2mapkggfhq/two-sided-market.pdf?dl=0" target="_blank"><span style="color:black">[PDF]</span></a>
 <details>
 <summary>Abstract</summary><sub>
@@ -65,14 +61,14 @@ We consider two business models for a two-sided economy under uncertainty: deale
 <details>
 <summary>Abstract</summary><sub>
 Exponential bandits are widely used in modelling projects selection in economics. In this paper, we study a problem, in which a principal has finite number of projects with dependent or independent states. We attain a set of results. 1) An index theorem is proposed to choose the optimal project dynamically.  2) When information acquisition is available, it may or may not be used  as a last-ditch effort before quitting. 3) With a discount factor, each project may be used multiple times by the principal, while which is bounded up by a defined index. 4) When the states of projects are negatively correlated, the principal may adopt a static hedging policy by implementing more than one projects simultaneously, while the number of such policies is bounded up by the number of projects.
-</details>
+</sub></details>
 
 
 [7]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Personalized Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
 <details>
 <summary>Abstract</summary><sub>
 A platform recommends a product from a set of horizontally differentiated ones sold by a single retailer to heterogeneous customers. To ease customer privacy concerns, the recommendation needs to satisfy a privacy constraint, which prevents direct exploitation of individual customer’s true preference. We show that for a fixed product price the optimal recommendation policy has a simple threshold structure: all products ranked before a threshold in the customer preference list are recommended with a uniform high probability and all products ranked after the threshold are recommended with a uniform low probability. We conduct asymptotic analysis to explore the impact of privacy protection on the efficiency and effectiveness of recommendation when the number of products is sufficiently large. At last, we show that stringent privacy protections can be detrimental to all market participants even when the retailer can respond by adjusting the product price.
-</details>
+</sub></details>
 
 
 
