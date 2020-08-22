@@ -19,7 +19,7 @@ Welcome to my website!
 
 Revenue Management, Approximation Algorithm, Mechanism Design.
 
-Particularly interested in the operational issues of emerging digital platforms, recommender systems.
+Particularly interested in the operational issues of emerging digital platforms and recommendation systems.
 
 ## Education
 - Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
