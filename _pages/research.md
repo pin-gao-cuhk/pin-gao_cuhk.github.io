@@ -12,7 +12,7 @@ redirect_from:
 ## Job Market Paper
 
 
-[1]. Gao, Pin, <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “A mechanism design perspective of live-streaming commerce: the role of information intervention”, in preparation for submission.
+[1]. Gao, Pin, <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Intervention”, in preparation for submission.
 
 <details>
 <summary>Abstract</summary><sub>
