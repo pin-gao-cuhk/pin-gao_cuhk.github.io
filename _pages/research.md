@@ -62,6 +62,10 @@ We consider two business models for a two-sided economy under uncertainty: deale
 
 
 [6]. Gao, Pin, Kanglin Chen, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “Multi-armed Exponential Bandit”, in preparation for submission.
+<summary>Abstract</summary><sub>
+Exponential bandits are widely used in modelling projects selection. In this paper, we study a problem, in which a principal has finite number of projects with dependent or independent states. We attain a set of results. 1) An index theorem is proposed to choose the optimal project dynamically.  2) When information acquisition is available, it may or may not be used  as a last-ditch effort before quitting. 3) With a discount factor, each project may be used multiple times by the principal, while which is bounded up by a defined index. 4) When the states of projects are negatively correlated, the principal may adopt a static hedging policy by implementing more than one projects simultaneously, while the number of such policies is bounded up by the number of projects.
+</details>
+
 
 [7]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Personalized Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
 <details>
