@@ -16,7 +16,8 @@ Welcome to my website!
 <a href="https://www.dropbox.com/s/wbnh8939zvs3gkp/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
 ## Research Interests
-Revenue Management, Innovation, Mechanism Design, Algorithmic Game Theory.
+
+Revenue Management, Innovation, Approximation Algorithm  and Mechanism Design.
 
 Particularly interested in the operational issues of emerging digital platforms, recommender systems.
 
