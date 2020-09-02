@@ -12,12 +12,20 @@ redirect_from:
 ## Job Market Paper
 
 
-[1]. Gao, Pin, <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision”, in preparation for submission. A copy of a preliminary version is available upon request.
+[1]. Gao, Pin, <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685012" target="_blank"><span style="color:black">A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision</span></a>”, in preparation for submission. 
  
 
 <details>
 <summary>Abstract</summary><sub>
-   Live-streaming e-commerce has been emerging as a new trend of online shopping. Amazon and Alibaba both embrace this novel marketing tool to engage customers by sequentially demonstrating different products for choice. In this paper, we use a mechanism design framework to demonstrate how the live-streaming platform can leverage information provision to improve its advertisement revenue from traditional position auctions. We show that the revenue loss from neglecting information intervention can be arbitrarily large. However, solving for the optimal mechanism is NP-hard. We thus develop a heuristic that guarantees a revenue at least as half as the optimal one. At last, we show that with information intervention, a more profitable seller may be allocated a lower position, whose per-click payment can also be lower.  
+ Live-streaming commerce has been emerging as a new trend of online shopping. Amazon
+and Alibaba both embrace this novel marketing tool to engage customers by sequentially
+demonstrating different products for choice. In this paper, we use a mechanism design framework
+to demonstrate how the live-streaming platform can leverage information provision to
+improve its advertisement revenue upon traditional position auctions. We show that the revenue
+loss from neglecting information provision can be arbitrarily large. However, solving for
+the optimal mechanism is NP-hard. We thus develop a heuristic that guarantees a revenue at
+least as half as the optimal one. We attribute the effectiveness of information provision to its
+discriminatory role in serving heterogeneous advertisers.
   </sub>
 </details>
 
