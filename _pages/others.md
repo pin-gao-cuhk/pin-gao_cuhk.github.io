@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ## Talks  
-Position Auction With Platform’s Intervention  
+A Mechanism Design Perspective of Live-streaming Commerce
 - INFORMS 2020 Annual Meeting, USA, 2020  
 
 Resource Allocation Among Competing Innovators
