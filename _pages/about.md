@@ -32,11 +32,6 @@ Particularly interested in the operational issues of emerging digital platforms 
 
 - B.Sc., Physics (Base Class), <a href="https://en.whu.edu.cn/" target="_blank"><span style="color:black">Wuhan University</span></a>, 2009 - 2013
 
-## Industry Experience
-- Quantative Analyst/Product Associate, BitPower (FinTech), Shenzhen,  2016 - 2017
-- Data Analyst/Business Analyst, UqiAuto (E-commerce), Beijing, 2015 - 2016
-
-
 ***
   
 #### With all lowliness and meekness, with long-suffering, bearing one another in love. 
