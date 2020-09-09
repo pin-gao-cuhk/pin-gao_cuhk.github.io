@@ -33,9 +33,8 @@ Particularly interested in the operational issues of emerging digital platforms 
 - B.Sc., Physics (Base Class), <a href="https://en.whu.edu.cn/" target="_blank"><span style="color:black">Wuhan University</span></a>, 2009 - 2013
 
 ## Industry Experience
-- Operations Consultant, Yiqixing (Transportation), Zhengzhou, 2019 - Present
-- Quant and Product Associate, BitPower (FinTech), Shenzhen,  2016 - 2017
-- Data and Business Analyst, UqiAuto (Supply Chain Management), Beijing, 2015 - 2016
+- Quantative Analyst/Product Associate, BitPower (FinTech), Shenzhen,  2016 - 2017
+- Data Analyst/Business Analyst, UqiAuto (E-commerce), Beijing, 2015 - 2016
 
 
 ***
