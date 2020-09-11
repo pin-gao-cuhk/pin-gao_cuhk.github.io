@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Talks  
+### Talks  
 A Mechanism Design Perspective of Live-streaming Commerce
 - INFORMS 2020 Annual Meeting, USA, 2020  
 
@@ -21,7 +21,7 @@ Dealership or Marketplace: A Dynamic Comparison
 - POMS-HK International Conference, Hong Kong, 2019  
 - MSOM Conference, Singapore, 2019
 
-## Teaching Assistant   
+### Teaching Assistant   
 - System Simulation, IEDA4130, HKUST, Spring 2020
   - Lead weekly python programing lab
   - Prepare teaching materials and examples
@@ -31,7 +31,7 @@ Dealership or Marketplace: A Dynamic Comparison
 - Queueing Theory, IEDA6100G, HKUST, Fall 2018  
 - Quantitative Methods in Financial Engineering, IELM4331, HKUST, Spring 2018 
 
-## Programming
+### Programming
 Python, Matlab, Mathematica, Latex, Markdown
 ## Honors and Awards  
 - Leader, National College Students’ Innovative Experiment, Wuhan Univeristy, China, 2012 - 2013  
