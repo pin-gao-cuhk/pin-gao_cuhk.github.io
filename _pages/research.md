@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Job Market Paper
+### Job Market Paper
 
 
 [1]. Gao, Pin, <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685012" target="_blank"><span style="color:black">A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision</span></a>”, in preparation for submission. 
@@ -29,7 +29,7 @@ discriminatory role in serving heterogeneous advertisers.
   </sub>
 </details>
 
-## Submitted Papers
+### Submitted Papers
 
 
 
@@ -63,7 +63,7 @@ We consider two business models for a two-sided economy under uncertainty: deale
 
 
 
-## Working Papers
+### Working Papers
 
 
 [6]. Gao, Pin, Kanglin Chen, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a> and <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, “Multi-armed Exponential Bandit”, in preparation for submission.
@@ -82,7 +82,7 @@ A platform recommends a product from a set of horizontally differentiated ones s
 
 
 
-## Other Publications
+### Other Publications
 
 [8]. Gao, Pin, Yingping He and [<span style="color:black">Xiongjun Liu</span>](https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm), “<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224509" target="_blank"><span style="color:black">Symmetry-Protected Non-Abelian Braiding of Majorana Kramers’ Pairs</span></a>”, *Phys. Rev. B 94, 224509 (2016)*.
 <details>
