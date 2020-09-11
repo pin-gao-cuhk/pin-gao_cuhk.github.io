@@ -15,13 +15,13 @@ Welcome to my website!
 
 <a href="https://www.dropbox.com/s/wbnh8939zvs3gkp/Cv_pingao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
 
-## Research Interests
+### Research Interests
 
 Revenue Management, Approximation Algorithm, Mechanism Design.
 
 Particularly interested in the operational issues of emerging digital platforms and recommendation systems.
 
-## Education
+### Education
 - Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
 
   Advisors: Prof. <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and Prof. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Ningyuan Chen</span></a>.
