@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-## UqiAuto (E-commerce), Beijing
+### UqiAuto (E-commerce), Beijing
 Data Analyst/Business Analyst, 2015 - 2016
 
 - Established consumer choice models through cluster analysis, neural network and other machine learning and statistical methods.
@@ -18,7 +18,7 @@ Data Analyst/Business Analyst, 2015 - 2016
 - Identified business risks and opportunities in the automotive aftermarket, by industry
 surveys, competitor analysis, etc.
 
-## BitPower (FinTech), Shenzhen
+### BitPower (FinTech), Shenzhen
 Quantative Analyst/Product Associate,  2016 - 2017
  - Bulit multi-factor trading models through correlation analysis, deep learning and other methods.
  - Participated in product design and product promotion. 
