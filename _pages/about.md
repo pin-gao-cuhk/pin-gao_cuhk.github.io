@@ -17,7 +17,7 @@ Welcome to my website!
 
 ### Research Interests
 
-Revenue Management, Algprithmic Mechanism Design, Bayesian Learning.
+Revenue Management, Bayesian Learning, Algprithmic Mechanism Design.
 
 Particularly interested in the operational issues of emerging digital platforms and recommendation systems.
 
