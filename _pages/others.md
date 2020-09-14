@@ -27,13 +27,13 @@ Dealership or Marketplace: A Dynamic Comparison
   - Prepare teaching materials and examples
   - Marking
 - Engineering Statistics, IEDA5270, HKUST, Fall 2018, Fall 2019 
-- Financial Engineering and Risk Managemement, EEMT5530, HKUST, Spring 2019  
+- Financial Engineering and Risk Management, EEMT5530, HKUST, Spring 2019  
 - Queueing Theory, IEDA6100G, HKUST, Fall 2018  
 - Quantitative Methods in Financial Engineering, IELM4331, HKUST, Spring 2018 
 
 ### Programming
 Python, Matlab, Mathematica, Latex, Markdown
 ### Honors and Awards  
-- Leader, National College Students’ Innovative Experiment, Wuhan Univeristy, China, 2012 - 2013  
-- National Inspirational Scholarship, Wuhan Univeristy, China, 2012  
+- Leader, National College Students’ Innovative Experiment, Wuhan University, China, 2012 - 2013  
+- National Inspirational Scholarship, Wuhan University, China, 2012  
 - The First Prize Winner, Provincial Chemistry Olympiads, Henan, China, 2008
