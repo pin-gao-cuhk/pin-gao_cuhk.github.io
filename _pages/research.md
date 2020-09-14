@@ -91,7 +91,7 @@ We develop a complete theory for symmetry protected non-Abelian statistics of Ma
 </sub></details>
 --------
 
-\* Corresponding Author
+# \* Corresponding Author
 
 
 ---------
