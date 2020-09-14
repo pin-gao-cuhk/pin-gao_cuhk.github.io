@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Talks  
+### Invited Talks  
 A Mechanism Design Perspective of Live-streaming Commerce
 - INFORMS 2020 Annual Meeting, USA, 2020  
 
