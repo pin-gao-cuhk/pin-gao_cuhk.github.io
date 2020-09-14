@@ -94,10 +94,4 @@ We develop a complete theory for symmetry protected non-Abelian statistics of Ma
 ### \* Corresponding Author
 
 
----------
 
-Don't worry about the overall importance of the problem; work on it if it looks interesting. 
-
-I think there's a sufficient correlation between interest and importance.
-
-— David Blackwell
