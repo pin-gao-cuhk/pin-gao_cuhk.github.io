@@ -73,7 +73,7 @@ Exponential bandits are widely used in modelling projects selection in economics
 </sub></details>
 
 
-[7]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao$^*$ and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
+[7]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao* and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
 <details>
 <summary>Abstract</summary><sub>
 A platform recommends a product from a set of horizontally differentiated ones sold by a single retailer to heterogeneous customers. To ease customer privacy concerns, the recommendation needs to satisfy a privacy constraint, which prevents direct exploitation of individual customer’s true preference. We show that for a fixed product price the optimal recommendation policy has a simple threshold structure: all products ranked before a threshold in the customer preference list are recommended with a uniform high probability and all products ranked after the threshold are recommended with a uniform low probability. We conduct asymptotic analysis to explore the impact of privacy protection on the efficiency and effectiveness of recommendation when the number of products is sufficiently large. At last, we show that stringent privacy protections can be detrimental to all market participants even when the retailer can respond by adjusting the product price.
@@ -89,6 +89,8 @@ A platform recommends a product from a set of horizontally differentiated ones s
 <summary>Abstract</summary><sub>
 We develop a complete theory for symmetry protected non-Abelian statistics of Majorana Kramers' pairs (MKPs) in time-reversal (TR) invariant topological superconductors, with fundamental results being uncovered. By introducing an effective Hamiltonian approach to describe the braiding of MKPs, we show that the non-Abelian braiding is protected when the effective Hamiltonian exhibits a new TR-like antiunitary symmetry, which is satisfied if the system is free of dynamical noise. Importantly, even the dynamical noise cannot cause error in braiding, unless the noise correlation function breaks a dynamical TR symmetry. This is a profound result and generalizes the TR symmetry protection of MKPs to the dynamical regime. Moreover, the resulted error by noise is shown to be a higher-order effect, compared with the decoherence of Majorana qubits without TR symmetry protection. This study completes the theory of symmetry-protected non-Abelian statistics of MKPs, and shows that the non-Abelian braiding of MKPs is well observable and may have versatile applications to future quantum computation technologies.
 </sub></details>
+--------
+* Corresponding Author
 ---------
 
 Don't worry about the overall importance of the problem; work on it if it looks interesting. 
