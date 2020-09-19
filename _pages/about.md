@@ -17,9 +17,9 @@ Welcome to my website!
 
 ### Research Interests
 
-Revenue Management, Bayesian Learning, Algorithmic Mechanism Design.
+Revenue Management, Multi-armed Bandit, Algorithmic Mechanism Design.
 
-Particularly interested in the operational issues of emerging digital platforms and recommendation systems.
+In particular, I am interested in revenue management of recommender systems and China related marketresearch.
 
 ### Education
 - Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
