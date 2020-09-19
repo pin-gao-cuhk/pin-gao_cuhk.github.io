@@ -17,7 +17,7 @@ Welcome to my website!
 
 ### Research Interests
 
-Revenue Management, Multi-armed Bandit, Algorithmic Mechanism Design.
+Methodologies: Dynamic Programming, Multi-armed Bandit, Algorithmic Mechanism Design.
 
 In particular, I am interested in revenue management of recommender systems and China related marketresearch.
 
