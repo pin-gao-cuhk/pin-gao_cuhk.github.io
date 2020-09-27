@@ -15,7 +15,7 @@ redirect_from:
 ### Job Market Paper
 
 
-[1\*]. <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Chen, Ying-Ju</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao&dagger; and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685012" target="_blank"><span style="color:black">A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision</span></a>”, in preparation for submission. 
+[1\*]. <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Chen, Ying-Ju</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao<sup>&dagger;</sup> and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685012" target="_blank"><span style="color:black">A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision</span></a>”, in preparation for submission. 
  
 
 <details>
@@ -69,14 +69,14 @@ We consider two business models for a two-sided economy under uncertainty: deale
 ### Working Papers
 
 
-[6\*]. Chen, Kanglin, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao&dagger; and Haoyu Liu, “Multi-armed Exponential Bandit”, in preparation for submission.
+[6\*]. Chen, Kanglin, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao<sup>&dagger;</sup> and Haoyu Liu, “Multi-armed Exponential Bandit”, in preparation for submission.
 <details>
 <summary>Abstract</summary><sub>
 Exponential bandits are widely used in modelling projects selection in economics. In this paper, we study an operational problem based on this framework, in which a player dyanmically chooses from a finite number of projects with dependent or independent states. We obtain a set of results. 1) An index theorem is proposed to choose the optimal project based on the current belief of states.  2) When information acquisition is available, it may be used in the middle stage or as a last-ditch effort before quitting. 3) With a discount factor, each project may be used multiple times, while the number of which is bounded up by a defined index. 4) When the states of projects are negatively correlated, the player may adopt a static hedging policy by implementing more than one projects simultaneously, while the number of such policies is bounded up.
 </sub></details>
 
 
-[7\*]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao&dagger; and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
+[7\*]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao<sup>&dagger;</sup> and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
 <details>
 <summary>Abstract</summary><sub>
 A platform recommends a product from a set of horizontally differentiated ones sold by a single retailer to heterogeneous customers. To ease customer privacy concerns, the recommendation needs to satisfy a privacy constraint, which prevents direct exploitation of individual customer’s true preference. We show that for a fixed product price the optimal recommendation policy has a simple threshold structure: all products ranked before a threshold in the customer preference list are recommended with a uniform high probability and all products ranked after the threshold are recommended with a uniform low probability. We conduct asymptotic analysis to explore the impact of privacy protection on the efficiency and effectiveness of recommendation when the number of products is sufficiently large. At last, we show that stringent privacy protections can be detrimental to all market participants even when the retailer can respond by adjusting the product price.
