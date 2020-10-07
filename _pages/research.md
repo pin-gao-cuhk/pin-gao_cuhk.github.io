@@ -15,7 +15,7 @@ redirect_from:
 ### Job Market Paper
 
 
-[1\* &dagger;]. <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Chen, Ying-Ju</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685012" target="_blank"><span style="color:black">A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision</span></a>”, in preparation for submission. 
+[1\* &dagger;]. <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Chen, Ying-Ju</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685012" target="_blank"><span style="color:black">A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision</span></a>”, in preparation for submission. <a href="https://www.dropbox.com/s/cj2wainvl6cn955/slide_auction.pdf?dl=0" target="_blank"><span style="color:black">[Slide]</span></a>
  
 
 <details>
