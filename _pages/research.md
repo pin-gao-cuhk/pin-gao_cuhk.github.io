@@ -72,7 +72,19 @@ We consider two business models for a two-sided economy under uncertainty: deale
 [6\* &dagger;]. Chen, Kanglin, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao and Haoyu Liu, “Multi-armed Exponential Bandit”, in preparation for submission.
 <details>
 <summary>Abstract</summary><sub>
-Exponential bandits are widely adopted in economics and marketing due to its tractabil-ity. This paper analyzes the one-agent multi-armed account of exponential bandits, where theagent dynamically selects arms to maximize total payoff.  We motive our base model by ex-amples with arms of the same type, while the results are generalized to cases where arms areeither independent or dependent.  The contribution is fourfold.  First, we characterize the op-timal policy for the agent to choose arms. Under the optimal policy, the agent selects one armeach time, and an arm is used at most once.  Second, we show that the agent may not regardinformation acquisition as a last-ditch effort before quitting, which contradicts existing litera-ture.  Third, with a discount factor, an arm may be used more than once.  Fourth, for the caseof negatively correlated bandits, the agent may use more than one arm simultaneously.  Thepaper is of both theoretical and practical significance since the model fits well with various sit-uations, including project selection, product promotion, and drug development.  Implicationsfor these applications are discussed.
+Exponential bandits are widely adopted in economics and marketing due to its tractability.
+This paper analyzes the one-agent multi-armed account of exponential bandits, where the
+agent dynamically selects arms to maximize total payoff. We motive our base model by examples
+with arms of the same type, while the results are generalized to cases where arms are
+either independent or dependent. The contribution is fourfold. First, we characterize the optimal
+policy for the agent to choose arms. Under the optimal policy, the agent selects one arm
+each time, and an arm is used at most once. Second, we show that the agent may not regard
+information acquisition as a last-ditch effort before quitting, which contradicts existing literature.
+Third, with a discount factor, an arm may be used more than once. Fourth, for the case
+of negatively correlated bandits, the agent may use more than one arm simultaneously. The
+paper is of both theoretical and practical significance since the model fits well with various situations,
+including project selection, product promotion, and drug development. Implications
+for these applications are discussed.
 </sub></details>
 
 
