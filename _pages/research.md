@@ -74,7 +74,7 @@ We consider two business models for a two-sided economy under uncertainty: deale
 <summary>Abstract</summary><sub>
 Exponential bandits are widely adopted in economics and marketing due to its tractability.
 This paper analyzes the one-agent multi-armed account of exponential bandits, where the
-agent dynamically selects arms to maximize total payoff. We motive our base model by examples
+agent dynamically selects arms to maximize total payoff. We motivate our base model by examples
 with arms of the same type, while the results are generalized to cases where arms are
 either independent or dependent. The contribution is fourfold. First, we characterize the optimal
 policy for the agent to choose arms. Under the optimal policy, the agent selects one arm
