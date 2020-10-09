@@ -96,6 +96,9 @@ A platform recommends a product from a set of horizontally differentiated ones s
 
 
 
+### Working Papers
+
+A learn then assortment model; Quality certification in innovation competition.
 
 ### Other Publications
 
