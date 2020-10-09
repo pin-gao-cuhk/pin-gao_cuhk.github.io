@@ -19,7 +19,7 @@ Welcome to my website!
 
 Methodologies: Dynamic Programming, Multi-armed Bandit, Algorithmic Mechanism Design.
 
-In particular, I am interested in revenue management of recommender systems and China related market research.
+Applications: Revenue Management, Recommendation Systems, Two-sided Market, Innovation.
 
 ### Education
 - Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
