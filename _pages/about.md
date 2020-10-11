@@ -30,6 +30,11 @@ Applications: Revenue Management, Recommendation Systems, Two-sided Market, Inno
 
   Advisor: Prof. <a href="https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:black">Tai-Kai Ng</span></a>.
 
+- Visiting Student, Theoretical Physics, Peking Univeristy, 2014 - 2015
+
+  Advisor: Prof. <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm" target="_blank"><span style="color:black">Xiong-Jun Liu</span></a>.
+
+
 - B.Sc., Physics (National Base for Talented Persons), <a href="https://en.whu.edu.cn/" target="_blank"><span style="color:black">Wuhan University</span></a>, 2009 - 2013
 
 ***
