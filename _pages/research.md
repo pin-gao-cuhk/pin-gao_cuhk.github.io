@@ -88,7 +88,7 @@ for these applications are discussed.
 </sub></details>
 
 
-[7\* &dagger;]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Privacy Perserving Product Recommendation”, in preparation for submission.
+[7\* &dagger;]. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Chen, Ningyuan</span></a>, Pin Gao and <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:black">Yang Li</span></a>, “Privacy Preserving Product Recommendation”, in preparation for submission.
 <details>
 <summary>Abstract</summary><sub>
 A platform recommends a product from a set of horizontally differentiated ones sold by a single retailer to heterogeneous customers. To ease customer privacy concerns, the recommendation needs to satisfy a privacy constraint, which prevents direct exploitation of individual customer’s true preference. We show that for a fixed product price the optimal recommendation policy has a simple threshold structure: all products ranked before a threshold in the customer preference list are recommended with a uniform high probability and all products ranked after the threshold are recommended with a uniform low probability. We conduct asymptotic analysis to explore the impact of privacy protection on the efficiency and effectiveness of recommendation when the number of products is sufficiently large. At last, we show that stringent privacy protections can be detrimental to all market participants even when the retailer can respond by adjusting the product price.
