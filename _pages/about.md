@@ -17,7 +17,7 @@ Welcome to my website!
 
 ### Research Interests
 
-Methodologies: Dynamic Programming, Complexity Theory, Bandits, Online Algorithm, Algorithmic Mechanism Design.
+Methodologies: Dynamic Programming, Bandits, Online Algorithm, Algorithmic Mechanism Design.
 
 Applications: Revenue Management, Recommendation Systems, Two-sided Market, Innovation.
 
