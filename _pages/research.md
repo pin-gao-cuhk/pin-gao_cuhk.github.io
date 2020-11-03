@@ -36,6 +36,7 @@ discriminatory role in serving heterogeneous advertisers.
 ### Submitted Papers
 
 
+  
 
 
 [2]. Gao, Pin, Yuhang Ma, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Ningyuan Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/ali" target="_blank"><span style="color:black">Anran Li</span></a>, <a href="http://faculty.marshall.usc.edu/Paat-Rusmevichientong/" target="_blank"><span style="color:black">Paat Rusmevichientong</span></a> and <a href="https://people.orie.cornell.edu/huseyin/" target="_blank"><span style="color:black">Huseyin Topaloglu</span></a>, “Assortment Optimization and Pricing under the Multinomial Logit Model with Impatient Customers: Sequential Recommendation and Selection”, under 3rd round review after **Minor** revision at *Operations Research*. 
@@ -70,7 +71,7 @@ We consider two business models for a two-sided economy under uncertainty: deale
 ### Working Papers
 
 
-[6\* &dagger;]. Chen, Kanglin, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao and Haoyu Liu, “Multi-armed Exponential Bandit”,  to be soon submitted to *Operations Research*.
+[6\* &dagger;]. Chen, Kanglin, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:black">Ying-Ju Chen</span></a>, <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a>, Pin Gao and Haoyu Liu, “<a href="https://www.researchgate.net/publication/345243177_Multi-Armed_Exponential_Bandit" target="_blank"><span style="color:black">Multi-armed Exponential Bandit </span></a>“,  to be soon submitted to *Operations Research*.
 <details>
 <summary>Abstract</summary><sub>
 Exponential bandits are widely adopted in economics and marketing due to its tractability.
