@@ -11,10 +11,6 @@ redirect_from:
 {% include base_path %}
 Welcome to my website!
 
-
-
-<a href="https://www.dropbox.com/s/ebs6h2frgl4vony/CV_PinGao.pdf?dl=0" target="_blank"><span style="color:black">[Pin's CV]</span></a>
-
 ### Research Interests
 
 Methodologies: Dynamic Programming, Bandits, Online Algorithm, Algorithmic Mechanism Design.
