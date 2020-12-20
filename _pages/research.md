@@ -46,12 +46,6 @@ redirect_from:
 
 A learn then assortment model; Quality certification in innovation competition; online product ranking.
 
-
-### Honors and Awards  
-- Leader, National College Students’ Innovative Experiment, Wuhan University, China, 2012 - 2013  
-- National Inspirational Scholarship, Wuhan University, China, 2012  
-- The First Prize Winner, Provincial Chemistry Olympiads, Henan, China, 2008
-
 -----
 
 ##### \* The authors' names are alphabetically ordered.
