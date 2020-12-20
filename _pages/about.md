@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Welcome to my website!
-
 I will become an assistant professor of the School of Data Science (SDS) at the Chinese University of Hong Kong, Shenzhen. 
 
 
