@@ -16,7 +16,7 @@ Currently, I am a fourth-year Ph.D. student in  <a href="https://ieda.ust.hk/eng
 My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including dynamic programming, multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
 
 
-I am looking for PhD students and postdocs to work with me since the summer of 2021.  Students with a degree of bachelor/master/phd in math/statistics/physics/OR/... are welcomed to contact me.  
+I am looking for PhD students and postdocs to work with me since the summer of 2021.  Students with a degree of bachelor/master/phd in math/statistics/physics/OR/... are welcome to contact me.  
 
 ***
   
