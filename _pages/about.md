@@ -15,7 +15,7 @@ I will become an assistant professor of the School of Data Science (SDS) at the 
 My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including dynamic programming, multi-armed bandits, online algorithms and mechanism design. My current research interests are algorithmic game theory and privacy preserving recommendations. In the immediate future, I will also work on causal inference.
 
 ### Education
-- Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
+#### - Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
 
   Advisors: Prof. <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and Prof. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Ningyuan Chen</span></a>.
   
