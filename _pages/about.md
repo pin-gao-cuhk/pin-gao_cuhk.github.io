@@ -34,6 +34,11 @@ My research focuses on revenue management, especially in recommendation systems.
 
 - B.Sc., Physics (National Base for Talented Persons), <a href="https://en.whu.edu.cn/" target="_blank"><span style="color:black">Wuhan University</span></a>, 2009 - 2013
 
+### Industry
+
+During 2016 and 2017, I worked in industry as a business/data analyst. Currently, I am also a consultant for a transportation company. 
+
+
 ***
   
 #### With all lowliness and meekness, with long-suffering, bearing one another in love. 
