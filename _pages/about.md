@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I will become an assistant professor of the School of Data Science (SDS) at the Chinese University of Hong Kong, Shenzhen. 
+I will join the School of Data Science at the Chinese University of Hong Kong, Shenzhen as an assistant professor in the summer of 2021.
 
 Currently, I am a fourth-year Ph.D. student in  <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, HKUST.  I am very fortunate to be co-advised by  <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Ningyuan Chen</span></a>.   Both my MPhil and BSc are majored in Theoretical Physics, and they are obtained from HKUST (2015) and Wuhan University (2013), respectively. During 2016 and 2017, I worked in industry as a business/data analyst.  
 
