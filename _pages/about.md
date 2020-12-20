@@ -13,7 +13,7 @@ I will join the School of Data Science at the Chinese University of Hong Kong, S
 
 Currently, I am a fourth-year Ph.D. student in  <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, HKUST.  Both my MPhil and BSc are majored in Theoretical Physics, and they are obtained from HKUST (2015) and Wuhan University (2013), respectively. During 2016 and 2017, I worked in industry as a business/data analyst.  
 
-My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including dynamic programming, multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
+My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
 
 
 I am looking for PhD students and postdocs to work with me at CUHK-Shenzhen.  Students with a degree of bachelor/master/phd in math/statistics/physics/OR/... are welcome to contact me.  
