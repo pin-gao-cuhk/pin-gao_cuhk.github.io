@@ -4,9 +4,6 @@ main:
 #     url: /home/
     
   - title: "Research"
-    url: /research/ 
-
-  - title: "Others"
-    url: /others/    
+    url: /research/     
     
 
