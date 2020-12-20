@@ -15,10 +15,6 @@ Currently, I am a fourth-year Ph.D. student in  <a href="https://ieda.ust.hk/eng
 
 My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including dynamic programming, multi-armed bandits, online algorithms and mechanism design. Currently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
 
-### Honors and Awards  
-- Leader, National College Students’ Innovative Experiment, Wuhan University, China, 2012 - 2013  
-- National Inspirational Scholarship, Wuhan University, China, 2012  
-- The First Prize Winner, Provincial Chemistry Olympiads, Henan, China, 2008
 
 ***
   
