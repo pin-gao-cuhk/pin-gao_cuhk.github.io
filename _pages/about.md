@@ -11,24 +11,9 @@ redirect_from:
 {% include base_path %}
 I will become an assistant professor of the School of Data Science (SDS) at the Chinese University of Hong Kong, Shenzhen. 
 
+Currently, I am a fourth year Ph.D. student at  <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, HKUST.  I am very forunate to be advisored by  <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Ningyuan Chen</span></a>.   My MPhil and BSc are both majored in Physics, and obtained from HKUST (2015) and Wuhan University (2013), respectively. During 2016 and 2017, I worked in industry as a business/data analyst. Currently, I am also a consultant for a transportation company. 
 
-My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including dynamic programming, multi-armed bandits, online algorithms and mechanism design. My current research interests are algorithmic game theory and privacy preserving recommendations. In the immediate future, I will also work on causal inference.
-
-### Education
-#### - Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
-####  Advisors: Prof. <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:black">Guillermo Gallego</span></a> and Prof. <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:black">Ningyuan Chen</span></a>.
-  
-#### - M.Phil., Theoretical Physics, HKUST, 2013 - 2015
-#### Advisor: Prof. <a href="https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:black">Tai-Kai Ng</span></a>.
-
-#### - Visiting Student, Theoretical Physics, Peking Univeristy, 2014 - 2015
-#### Advisor: Prof. <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm" target="_blank"><span style="color:black">Xiong-Jun Liu</span></a>.
-
-#### - B.Sc., Physics, <a href="https://en.whu.edu.cn/" target="_blank"><span style="color:black">Wuhan University</span></a>, 2009 - 2013
-
-### Industry
-
-During 2016 and 2017, I worked in industry as a business/data analyst. Currently, I am also a consultant for a transportation company. 
+My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including dynamic programming, multi-armed bandits, online algorithms and mechanism design. Currently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
 
 ### Honors and Awards  
 - Leader, National College Students’ Innovative Experiment, Wuhan University, China, 2012 - 2013  
