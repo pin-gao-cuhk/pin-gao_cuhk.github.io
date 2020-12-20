@@ -13,6 +13,7 @@ Welcome to my website!
 
 I will become an assistant professor of the School of Data Science (SDS) at the Chinese University of Hong Kong, Shenzhen. 
 
+
 ### Research Interests
 
 My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including dynamic programming, multi-armed bandits, online algorithms and mechanism design. My current research interests are algorithmic game theory and privacy preserving recommendations. In the immediate future, I will also work on causal inference.
