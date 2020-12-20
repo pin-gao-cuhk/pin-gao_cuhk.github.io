@@ -11,11 +11,11 @@ redirect_from:
 {% include base_path %}
 Welcome to my website!
 
+I will become an assistant professor of the School of Data Science (SDS) at the Chinese University of Hong Kong, Shenzhen. 
+
 ### Research Interests
 
-Methodologies: Dynamic Programming, Bandits, Online Algorithm, Algorithmic Mechanism Design.
-
-Applications: Revenue Management, Recommendation Systems, Two-sided Market, Innovation.
+My research primiarily focuses on revenue management, especially for recommendation system. I use various methodoligies to solve real-world problems, including dynamic programming, multi-armed bandits, online algorithms and mechanism design. My current research interests are  algorithmic game theory and privacy preserving recommendation. In the immediate future, I will also work on causal inference.
 
 ### Education
 - Ph.D., <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, <a href="https://www.ust.hk/home" target="_blank"><span style="color:black">HKUST</span></a>,  2017 - Present
