@@ -36,6 +36,10 @@ My research focuses on revenue management, especially in recommendation systems.
 
 During 2016 and 2017, I worked in industry as a business/data analyst. Currently, I am also a consultant for a transportation company. 
 
+### Honors and Awards  
+- Leader, National College Students’ Innovative Experiment, Wuhan University, China, 2012 - 2013  
+- National Inspirational Scholarship, Wuhan University, China, 2012  
+- The First Prize Winner, Provincial Chemistry Olympiads, Henan, China, 2008
 
 ***
   
