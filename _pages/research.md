@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+#####   &dagger; Corresponding Author   \* The authors' names are alphabetically ordered.
 
 [1]. Gao, Pin, Yuhang Ma, Ningyuan Chen, Guillermo Gallego, <a href="https://www.lse.ac.uk/management/people/academic-staff/ali" target="_blank"><span style="color:black">Anran Li</span></a>, <a href="http://faculty.marshall.usc.edu/Paat-Rusmevichientong/" target="_blank"><span style="color:black">Paat Rusmevichientong</span></a> and <a href="https://people.orie.cornell.edu/huseyin/" target="_blank"><span style="color:black">Huseyin Topaloglu</span></a>, “Assortment Optimization and Pricing under the Multinomial Logit Model with Impatient Customers: Sequential Recommendation and Selection”, under 3rd round review after **Minor** revision at *Operations Research*. <br/> <br/>
 [2\*]. Chen, Ningyuan, Pin Gao and <a href="https://www.bu.edu/questrom/profile/steven-kou/" target="_blank"><span style="color:black">Steven Kou</span></a>, “<a href="https://www.researchgate.net/publication/343635899_Does_the_Prohibition_of_Trade-Through_Hurt_Liquidity_Demanders" target="_blank"><span style="color:black">Does the Prohibition of Trade-Through Hurt Liquidity Demanders?</span></a>”, under  **Major** revision at *Operations Research*. <br/><br/>
@@ -29,8 +29,5 @@ A learn then assortment model; Quality certification in innovation competition; 
 
 -----
 ##### PhD Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and  <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>
-
-##### \* The authors' names are alphabetically ordered; &dagger; Corresponding Author
-##### 
 
 
