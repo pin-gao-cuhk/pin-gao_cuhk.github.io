@@ -30,7 +30,7 @@ A learn then assortment model; Quality certification in innovation competition; 
 -----
 ##### PhD Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and  <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>
 
-##### \* The authors' names are alphabetically ordered.
-##### &dagger; Corresponding Author
+##### \* The authors' names are alphabetically ordered; &dagger; Corresponding Author
+##### 
 
 
