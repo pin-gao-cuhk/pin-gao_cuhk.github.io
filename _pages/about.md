@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I will join the School of Data Science at the Chinese University of Hong Kong, Shenzhen as an assistant professor in the summer of 2021.
+I will join the School of Data Science at the Chinese University of Hong Kong (Shenzhen) as an assistant professor in the summer of 2021.
 
 I spent four years as a PhD student in  <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, HKUST.  My MPhil and BSc, both majored in Theoretical Physics, were obtained from HKUST (2015) and Wuhan University (2013), respectively. During 2016 and 2017, I worked in industry as a business/data analyst.  
 
