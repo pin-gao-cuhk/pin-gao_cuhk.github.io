@@ -11,12 +11,12 @@ redirect_from:
 {% include base_path %}
 I will join the <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science</span></a> at the Chinese University of Hong Kong (Shenzhen) as an assistant professor in the summer of 2021.
 
-I spent four years as a PhD student in  <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">Industrial Engineering and Decision Analytics</span></a>, HKUST.  My MPhil and BSc, both majored in Theoretical Physics, were obtained from HKUST (2015) and Wuhan University (2013), respectively. During 2016 and 2017, I worked in industry as a business/data analyst.  
+I received my PhD from  <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">IEDA</span></a>, HKUST in 2021.  My MPhil and BSc, both majored in Theoretical Physics, were obtained from HKUST (2015) and Wuhan University (2013), respectively. During 2016 and 2017, I worked in industry as a business/data analyst.  
 
 My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
 
 
-I am looking for PhD students and postdocs to work with me at CUHK-Shenzhen.  Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome to contact me.  
+I am looking for PhD students/postdocs/RA to work with me at CUHK-Shenzhen.  Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome to contact me.  
 
 ***
   
