@@ -5,8 +5,8 @@ permalink: /experience/
 author_profile: true
 redirect_from:
   - /md/
-  - /markdo
---- 
+  - /markdown.html
+---
 
 {% include base_path %}
 
