@@ -2,11 +2,13 @@
 main:
 #   - title: "Home"
 #     url: /home/
+   
+  - title: "Experience"
+    url: /experience/  
+    
     
   - title: "Research"
     url: /research/    
-    
-  - title: "Experience"
-    url: /experience/  
+
     
 
