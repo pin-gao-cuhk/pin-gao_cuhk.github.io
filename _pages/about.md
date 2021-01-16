@@ -19,9 +19,11 @@ My research focuses on revenue management, especially in recommendation systems.
 I am looking for PhD students/postdocs/RA to work with me at CUHK-Shenzhen.  Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome to contact me.  
 
 
-### PhD， <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">IEDA</span></a>, HKUST， 2017-2021
-### MPhil， Theoretical Physics, HKUST， 2013-2015
-### BSc， Physics, Wuhan University， 2009-2013
+##### Short Bio
+PhD， <a href="https://ieda.ust.hk/eng/index.php" target="_blank"><span style="color:black">IEDA</span></a>, HKUST， 2017-2021
+MPhil， Theoretical Physics, HKUST， 2013-2015
+BSc， Physics, Wuhan University， 2009-2013
+
 During 2016 and 2017, I worked in industry as a business/data analyst.
 
 
