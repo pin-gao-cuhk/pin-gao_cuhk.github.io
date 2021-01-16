@@ -14,7 +14,7 @@ Education
 ======
 
 
-* Ph.D in Operation Management, HKUST, 2017-2021
+* Ph.D. in Operation Management, HKUST, 2017-2021
 
   - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>
 
@@ -29,7 +29,7 @@ Education
 
   - Advisor: <a href="https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:blue">Tai-Kai Ng</span></a>
 
-* B.S. in Physics, Wuhan University, 2009-2013
+* B.Sc. in Physics, Wuhan University, 2009-2013
 
 Work experience
 ======
