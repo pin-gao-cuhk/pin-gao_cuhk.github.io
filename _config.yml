@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Lianmin Zhang 张莲民"
   avatar           : "lianmin.jpg"
-  bio              : "HKUST"
+  bio              : "Research Scienstist"
  # cv               : "https://www.dropbox.com/s/ebs6h2frgl4vony/CV_PinGao.pdf?dl=0"
-  location         : "Hong Kong, China"
-#   employer         :
+  location         : "Shenzhen, China"
+   employer         : "Shenzhen Research Institute of Big Data"
 # cv : "https://www.dropbox.com/s/4njs1lddfrtbax5/CV_pingao.pdf?dl=0"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=eRF2QvAAAAAJ&hl=en"
-  email            :  pgao@connect.ust.hk #"pgao@connect.ust.hk"
-  researchgate     : "https://www.researchgate.net/profile/Pin_Gao5"
+ # googlescholar    : "https://scholar.google.com/citations?user=eRF2QvAAAAAJ&hl=en"
+  email            :  lmzhang@sribd.cn #"mzhang@sribd.cn"
+ # researchgate     : "https://www.researchgate.net/profile/Pin_Gao5"
 #  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3073873"
   uri              :
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   tumblr           :
 #   twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weixing            :
   xing             :
   youtube          :
   wikipedia        :
