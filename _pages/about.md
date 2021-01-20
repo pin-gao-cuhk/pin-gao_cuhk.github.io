@@ -30,7 +30,7 @@ Lianmin Zhang is a research scientist at Shenzhen Research Institute of Big Data
 
 - 2 year contracts.
 
-*Research Assistants/Engineers*
+*Research Assistants/Engineers
 
 - We are hiring software engineers focusing on network protocol, cloud/edge computing, and smart driving, and hardware engineers on underwater acoustic networks.
 Competitive salary, flexible working hours.
