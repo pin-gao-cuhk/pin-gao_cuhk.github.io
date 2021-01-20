@@ -14,14 +14,16 @@ Lianmin Zhang is a research scientist at Shenzhen Research Institute of Big Data
 
 **Hiring at both CUHK(SZ) and SRIBD**
 
-*PhD students*<ac>
-\* We encourage students with strong math background and engineering interests to apply our PhD program.<ac>
+*PhD students*
+
+\* We encourage students with strong math background and engineering interests to apply our PhD program.
   
-\* Tuition fee covered (95,000/year) for 4 years, monthly salary 5000 RMB (with research and teaching duties).<ac>
+\* Tuition fee covered (95,000/year) for 4 years, monthly salary 5000 RMB (with research and teaching duties).
   
 \* CUHK degree, flexible research directions, and International academic environment.<ac>
   
 *Postdoctors*
+
 \* We welcome fresh PhD graduates with background in areas related to operations research.
 
 \* Competitive salary package (including 300,000RMB government supports, subject to qualification)
