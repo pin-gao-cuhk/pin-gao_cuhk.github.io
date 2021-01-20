@@ -9,21 +9,35 @@ redirect_from:
 ---
 
 {% include base_path %}
-I will join the <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science at the Chinese University of Hong Kong (Shenzhen)</span></a> as an assistant professor in the summer of 2021.
-
-My research focuses on revenue management, especially in recommendation systems. I use various methodoligies to solve real-world problems, including multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
+Lianmin Zhang is a research scientist at Shenzhen Research Institute of Big Data(SRIBD). Before joining SRIBD, he was an associate professor of the School of Management and Engineering at Nanjing University. He received his PhD in System Engineering and Engineering Management Science from The Chinese University of Hong Kong. His current research interests include data driven operations managment, revenue management and distributionally robust optimization. He has published articles in Production and Operations Management, Decision Science, European Journal of Operations Research, and other journals. 
 
 
-I am looking for PhD students/postdocs/RA to work with me at CUHK-Shenzhen.  Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome to contact me.  
+**Hiring at both CUHK(SZ) and SRIBD**
 
-Email: pgao@student.ust.hk
+*PhD students*
+\* We encourage students with strong math background and engineering interests to apply our PhD program.
+\* Tuition fee covered (95,000/year) for 4 years, monthly salary 5000 RMB (with research and teaching duties).
+\* CUHK degree, flexible research directions, and International academic environment.
+*Postdoctors*
+\* We welcome fresh PhD graduates with background in areas related to operations research.
+\* Competitive salary package (including 300,000RMB government supports, subject to qualification)
+\* 2 year contracts.
+*Research Assistants/Engineers*
+\* We are hiring software engineers focusing on network protocol, cloud/edge computing, and smart driving, and hardware engineers on underwater acoustic networks.
+Competitive salary, flexible working hours.
+\* Fresh graduates with a master or bachelor degree are welcome to apply.
+*Research Scientists at SRIBD*
+\* With a PhD degree in areas related to smart city, transportation and logistics.
+Very competitive salary.
+\* Fresh PhDs are welcome to apply.
+\* The above positions available year-round. Please contact me for more information.
+
+Email: lmzhang@sribd.cn
 
 
 ***
 
-#### With all lowliness and meekness, with long-suffering, bearing one another in love. 
-#### 凡事卑微、温柔、恒忍，在爱里彼此担就.
-#### Ephesians 4:2
+
 
 <div id="sfca65yz9mwqd6fhn1rfutkx62b9g3mbg36"></div><noscript><a href="https://www.freecounterstat.com" title="website counter widget"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=a65yz9mwqd6fhn1rfutkx62b9g3mbg36" border="0" title="website counter widget" alt="website counter widget"></a></noscript>
 
