@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}<ac>
+{% include base_path %}
+**About me**
+
 Lianmin Zhang is a research scientist at Shenzhen Research Institute of Big Data(SRIBD). Before joining SRIBD, he was an associate professor of the School of Management and Engineering at Nanjing University. He received his PhD in System Engineering and Engineering Management Science from The Chinese University of Hong Kong. His current research interests include data driven operations managment, revenue management and distributionally robust optimization. He has published articles in Production and Operations Management, Decision Science, European Journal of Operations Research, and other journals. 
 
 
