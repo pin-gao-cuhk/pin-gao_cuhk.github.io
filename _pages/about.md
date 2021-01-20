@@ -16,7 +16,7 @@ Lianmin Zhang is a research scientist at Shenzhen Research Institute of Big Data
 
 **Hiring at both CUHK(SZ) and SRIBD**
 
-*PhD students
+*PhD students*
 
 - We encourage students with strong math background and engineering interests to apply our PhD program.
   
@@ -24,7 +24,7 @@ Lianmin Zhang is a research scientist at Shenzhen Research Institute of Big Data
   
 - CUHK degree, flexible research directions, and International academic environment.<ac>
   
-*Postdoctors
+*Postdoctors*
 
 - We welcome fresh PhD graduates with background in areas related to operations research.
 
@@ -32,14 +32,14 @@ Lianmin Zhang is a research scientist at Shenzhen Research Institute of Big Data
 
 - 2 year contracts.
 
-*Research Assistants/Engineers
+*Research Assistants/Engineers*
 
 - We are hiring software engineers focusing on network protocol, cloud/edge computing, and smart driving, and hardware engineers on underwater acoustic networks.
 Competitive salary, flexible working hours.
 
 - Fresh graduates with a master or bachelor degree are welcome to apply.
 
-*Research Scientists at SRIBD
+*Research Scientists at SRIBD*
 
 - With a PhD degree in areas related to smart city, transportation and logistics.
 
