@@ -14,10 +14,11 @@ redirect_from:
 * PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
   
   - Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome.
-  
+  - Scholarships
     - Tuition waiver（up to RMB95,000 per year)
     - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
     - Other kinds of Scholarships
+  - CUHK degree, flexible research directions,  international academic environment and various industry cooperation opportunities.
 
 
 
