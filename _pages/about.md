@@ -18,10 +18,8 @@ My research is focused on revenue management, especially in recommendation syste
   - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
   
 * Visiting Student in Physics, Peking University, 2015-2016
-  - Advisor: <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm" target="_blank"><span style="color:blue">Xiongjun Liu</span></a>.
 
 * M.Phil. in Theoretical Physics, HKUST, 2013-2015
-  - Advisor: <a href="https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:blue">Tai-Kai Ng</span></a>.
 
 * B.Sc. in Physics, Wuhan University, 2009-2013
 
