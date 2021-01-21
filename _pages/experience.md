@@ -28,8 +28,9 @@ redirect_from:
   - Competitive salary package (including 300,000RMB government supports, subject to qualification)
 
   - 2 year contracts.
- 
- * CUHK-Shenzhen Presidential Postdoctoral Fellowships Program (PPFP)
+  
+* CUHK-Shenzhen Presidential Postdoctoral Fellowships Program (PPFP)
+
   - Each postdoct is required to find one more supervisors, from a leading university overseas. You will spend half time overseas and half time in Shenzhen. PPFP covers the full cost of the overseas stay, including the salary and medical insurance.
 
   - Salaries will be comparable with the current international standards.
