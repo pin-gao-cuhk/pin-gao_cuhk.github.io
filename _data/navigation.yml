@@ -2,13 +2,13 @@
 main:
 #   - title: "Home"
 #     url: /home/
+
+  - title: "Research"
+    url: /research/    
    
-  - title: "Experience"
+  - title: "Hiring at CUHK-ShenZhen"
     url: /experience/  
     
     
-  - title: "Research"
-    url: /research/    
-
     
 
