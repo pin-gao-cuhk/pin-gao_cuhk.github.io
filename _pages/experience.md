@@ -31,10 +31,8 @@ redirect_from:
   
 * CUHK-Shenzhen Presidential Postdoctoral Fellowships Program (PPFP)
 
-  - Each postdoct is required to find one more supervisors, from a leading university overseas. You will spend half time overseas and half time in Shenzhen. PPFP covers the full cost of the overseas stay, including the salary and medical insurance.
-
+  - Jointly supervised with professors from leading universities overseas. 
   - Salaries will be comparable with the current international standards.
-  
   - More details see <a href="https://sds.cuhk.edu.cn/page/181" target="_blank"><span style="color:black">PPFP</span></a>.
 
  
