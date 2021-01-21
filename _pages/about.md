@@ -16,6 +16,10 @@ My research is focused on revenue management, especially in recommendation syste
 
 I am looking for PhD students/postdocs/RA to work with me at CUHK-Shenzhen.  Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome to contact me.  
 
+<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>
+
+<a href="https://sds.cuhk.edu.cn/en/phd-programmes/scholarships" target="_blank"><span style="color:black">Scholarships</span></a>
+
 Email: pgao@student.ust.hk
 
 
