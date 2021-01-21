@@ -25,7 +25,7 @@ My research is focused on revenue management, especially in recommendation syste
 
 * B.Sc. in Physics, Wuhan University, 2009-2013
 
-### Work experience
+### Industry Experience
 During 2016 and 2017, I worked in e-commerce/Fintech companies as a business/data analyst.
 
 ### Hiring at CUHK-Shenzhen
