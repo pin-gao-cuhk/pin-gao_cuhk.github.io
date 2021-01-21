@@ -17,7 +17,6 @@ Email: pgao@student.ust.hk
   
   - Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome.
   - CUHK degree, flexible research directions,  international academic environment and various industry cooperation opportunities.
-  - 
   - Scholarships
     - Tuition waiver（up to RMB95,000 per year)
     - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
@@ -25,11 +24,11 @@ Email: pgao@student.ust.hk
   
 
   
-* CUHK-Shenzhen Presidential Postdoctoral Fellowships Program (PPFP)
+* CUHK-Shenzhen Presidential Postdoctoral Fellowships Program
 
   - Jointly supervised with professors from leading universities overseas. 
   - Salaries will be comparable with the current international standards.
-  - More details see <a href="https://sds.cuhk.edu.cn/page/181" target="_blank"><span style="color:black">PPFP</span></a>.
+  - More details see <a href="https://sds.cuhk.edu.cn/page/181" target="_blank"><span style="color:black">link</span></a>.
 
 * Regular Postdoctors
 
