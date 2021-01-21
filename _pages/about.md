@@ -14,8 +14,7 @@ I will join the <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="
 My research is focused on revenue management, especially in recommendation systems. Various methodoligies I use include multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
 
 ### Education
-* Ph.D. in Operation Management, HKUST, 2017-2021
-  - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
+* Ph.D. in Operation Management, HKUST, 2017-2021. Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
   
 * Visiting Student in Physics, Peking University, 2015-2016
 
