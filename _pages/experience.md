@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 
-permalink: /experience/
+permalink: /hiring/
 author_profile: true
 redirect_from:
   - /md/
