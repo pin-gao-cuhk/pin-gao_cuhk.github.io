@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-### Hiring at CUHK-Shenzhen
+
 
 * PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
   
@@ -21,7 +21,14 @@ redirect_from:
   - CUHK degree, flexible research directions,  international academic environment and various industry cooperation opportunities.
 
 
+* Postdoctors
 
-  , <a href="https://sds.cuhk.edu.cn/en/phd-programmes/scholarships" target="_blank"><span style="color:black">Scholarships</span></a>.
+  - We welcome fresh PhD graduates with background in areas related to operations research.
+
+  - Competitive salary package (including 300,000RMB government supports, subject to qualification)
+
+  - 2 year contracts.
+  
+
 
 Email: pgao@student.ust.hk
