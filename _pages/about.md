@@ -27,7 +27,17 @@ My research is focused on revenue management, especially in recommendation syste
 During 2016 and 2017, I worked in e-commerce/Fintech companies as a business/data analyst.
 
 ### Hiring at CUHK-Shenzhen
-I am looking for PhD students/postdocs/RA to work with me at CUHK-Shenzhen.  Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome to contact me.  <a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>, <a href="https://sds.cuhk.edu.cn/en/phd-programmes/scholarships" target="_blank"><span style="color:black">Scholarships</span></a>.
+
+* PhD Students  <a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>
+  
+  - Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome.
+  - Tuition waiver（up to RMB95,000 per year)
+  - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
+  - Other kinds of Scholarships
+
+
+
+  , <a href="https://sds.cuhk.edu.cn/en/phd-programmes/scholarships" target="_blank"><span style="color:black">Scholarships</span></a>.
 
 Email: pgao@student.ust.hk
 
