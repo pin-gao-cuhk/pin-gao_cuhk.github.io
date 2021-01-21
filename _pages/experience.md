@@ -9,20 +9,18 @@ redirect_from:
 ---
 
 {% include base_path %}
+### Hiring at CUHK-Shenzhen
 
-### Education
-* Ph.D. in Operation Management, HKUST, 2017-2021
-  - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
-  - Thesis Committee: <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:blue">Ying-Ju Chen</span></a>, Guillermo Gallego, <a href="https://www.bschool.cuhk.edu.hk/staff/gong-xiting/" target="_blank"><span style="color:blue">Xiting Gong</span></a>, 
-<a href="https://ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=13" target="_blank"><span style="color:blue">Qian Liu</span></a> and <a href="https://ieda.ust.hk/dfaculty/rzhang/" target="_blank"><span style="color:blue">Rachel Zhang</span></a>.
+* PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
   
-* Visiting Student in Physics, Peking University, 2015-2016
-  - Advisor: <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm" target="_blank"><span style="color:blue">Xiongjun Liu</span></a>.
+  - Students with a degree of bachelor/master/phd in math/physics/OR/... are welcome.
+  
+    - Tuition waiver（up to RMB95,000 per year)
+    - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
+    - Other kinds of Scholarships
 
-* M.Phil. in Theoretical Physics, HKUST, 2013-2015
-  - Advisor: <a href="https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:blue">Tai-Kai Ng</span></a>.
 
-* B.Sc. in Physics, Wuhan University, 2009-2013
 
-### Work experience
-During 2016 and 2017, I worked in e-commerce/Fintech companies as a business/data analyst.
+  , <a href="https://sds.cuhk.edu.cn/en/phd-programmes/scholarships" target="_blank"><span style="color:black">Scholarships</span></a>.
+
+Email: pgao@student.ust.hk
