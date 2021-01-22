@@ -15,7 +15,7 @@ redirect_from:
 
 ### Selected Published Papers
 [15]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** Accept.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
-[14]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Yinlian Zeng)<br/><br/>
+[14]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
 [13].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**.(X.Lin, J. Zhou, Y.Zeng)<br/><br/>
 [12]. Single-Item Repairable Inventory System with New and Warranty Demand. **Transportation Research Part E: Logistics and Transportation Review**.142, 102035, 2020. (with Y.Lin, J.Leung, J.Gu)<br/><br/>
 [11]. Who Is Better Off by Selling Extended Warranties in the Supply Chain: the Manufacturer, the Retailer, or Both? **Annals of Operations Research**.(L.Guan, D.Long, H.Shen, H.Tang)<br/><br/>
@@ -44,7 +44,7 @@ redirect_from:
 \*	Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. Electronic Commerce Research and Applications.(with L.Guan, H.Chen, H.Ma)<br/>
 \*	Parallel machine total weighted completion time, International Journal of Product Research. (with Y.Li, R.Li, H.Shen)<br/>
 \*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
-\*  Risk Pooling. Target to Production and Operations Management.(with Z.Cui, J.Ding, D.Zhuoyu Long)<br/>
+\*  Risk Pooling. Target to Production and Operations Management.(with Z.Cui, J.Ding, D. Long)<br/>
 
 
 
