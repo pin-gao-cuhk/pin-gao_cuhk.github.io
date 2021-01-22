@@ -10,14 +10,25 @@ redirect_from:
 The following positions are currently open and accepting applications. Please drop me an email at **lmzhang at sribd.cn** if interested.
  
 {% include base_path %}
-### Ph.D (With CUHKSZ degree)
-I am looking for self-motivated and hardworking Ph.D. students to work on various research topics. Focuses are on the theory and applications of operations research techniques (in particular, discrete optimization and systems simulation) and data-driven approaches for decision-making problems in the domains of transportation and logistics planning and operations management. The students should have a good degree in a related discipline (e.g., Applied Mathematics, Computer Science, Industrial Engineering, and Systems Engineering), a solid background in optimization, statistics and simulation and hands-on programming experience.
-
-Full-time M.Phil./Ph.D. students are normally considered eligible to receive a Postgraduate Scholarship (tuition fee covered (95,000/year) for 4 years, monthly salary 5000-10000 RMB) during the normative study period.
 
 
-### Research Assistant
-I am looking for self-motivated and hardworking research assistants to work on research projects, focusing on systems engineering problems in the transportation, logistics and operations management. The main responsibilities include collecting, processing and analyzing data, reviewing literature, developing computational algorithms and programmes, and conducting computational experiments. The research assistants are expected to have good knowledge of mathematics, statistics, and simulation and strong programming skills. Experience in using optimization and simulation tools (such as IBM ILOG CPLEX, Gurobi, ARENA, and AnyLogic) and knowledge of logistics, supply chain and operations research will be advantageous.
+* PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
+  
+  - Students with a degree of bachelor/master in math/operations research/industrial engineering/... are welcome.
+  - CUHK degree, flexible research directions,  international academic environment and extensive industry cooperation opportunities.
+    - Tuition waiver（up to RMB95,000 per year)
+    - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
+    - Other kinds of Scholarships
+  
+* Postdoctors
 
-### Visiting Student
-I regularly host visiting students (at Master's and Ph.D. levels) to work with us on research projects, focusing on systems engineering problems in the transportation, logistics, and operations management. The main responsibilities include collecting, processing, and analyzing data and conducting computational experiments. Visiting students are expected to have good knowledge of mathematics, statistics, and simulation and strong programming skills. 
+  - Fresh PhD graduates with background in areas related to operations research.
+  - Competitive salary package (including 300K RMB government supports, subject to qualification).
+  - For Presidential Postdoctoral Fellowships Program, more details see <a href="https://sds.cuhk.edu.cn/page/181" target="_blank"><span style="color:black">SDS_link</span></a> or <a href="http://www.sribd.cn/index.php/cn/%E4%BA%BA%E6%89%8D%E6%8B%9B%E8%81%98/phd-fellowship/2-%E4%B8%BB%E9%A1%B5/283-call-for-nominations-for-sribd-international-postdoctoral-fellowship-of-2020.html" target="_blank"><span style="color:black">SRIBD_link</span></a>.
+
+
+* Research Assistants/Visiting Students
+  - Research opportunities with top scholars in CUHKSZ.
+  - Competitive salary, flexible working hours.
+  - Oversea PhD Recommendation opportunities
+
