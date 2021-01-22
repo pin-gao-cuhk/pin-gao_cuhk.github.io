@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 
 
-* 2020--      Resarch Scientist in Shenzhen Research Institute of Big Data(SRIBD)
-* 2014-2020   Assistant/Associate Professor in Nanjing University（NJU)
-* 2013 Ph.D   The Chinese University of Hong Kong (CUHK)
+* 2020--now,    Resarch Scientist in Shenzhen Research Institute of Big Data(SRIBD)
+* 2014-2020,    Assistant/Associate Professor in Nanjing University（NJU)
+* 2009-2013,     Ph.D in The Chinese University of Hong Kong (CUHK)
 
 **Research Interests**: 
 
