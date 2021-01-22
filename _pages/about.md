@@ -17,7 +17,7 @@ redirect_from:
 
 **Research Interests**: 
 
-* Theories and Methodologies
+\* Theories and Methodologies
 
  - Mathematical modeling
  - Distributionally robust optimization
