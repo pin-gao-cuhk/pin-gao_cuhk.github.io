@@ -7,7 +7,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
+The following positions are currently open and accepting applications. Please drop me an email at **lmzhang at sribd.cn** if interested.
+ 
 {% include base_path %}
 ### Ph.D (With CUHKSZ degree)
 I am looking for self-motivated and hardworking Ph.D. students to work on various research topics. Focuses are on the theory and applications of operations research techniques (in particular, discrete optimization and systems simulation) and data-driven approaches for decision-making problems in the domains of transportation and logistics planning and operations management. The students should have a good degree in a related discipline (e.g., Applied Mathematics, Computer Science, Industrial Engineering, and Systems Engineering), a solid background in optimization, statistics and simulation and hands-on programming experience.
