@@ -32,7 +32,7 @@ Email: pgao@student.ust.hk
 * Regular Postdoctors
 
   - Fresh PhD graduates with background in areas related to operations research.
-  - Competitive salary package (including 300,000RMB government supports, subject to qualification)
+  - Competitive salary package (including 300K RMB government supports, subject to qualification)
 
 * Research Assistants
 
