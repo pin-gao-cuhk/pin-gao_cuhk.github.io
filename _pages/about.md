@@ -11,16 +11,27 @@ redirect_from:
 {% include base_path %}
 
 
-I am a research scientist at Shenzhen Research Institute of Big Data(SRIBD). Before joining SRIBD, he was an associate professor of the School of Management and Engineering at Nanjing University. I received his PhD in System Engineering and Engineering Management Science from The Chinese University of Hong Kong. 
-
-His current research interests include data driven operations managment, revenue management and distributionally robust optimization. He has published articles in Production and Operations Management, Decision Science, European Journal of Operations Research, Computer and Operations Research, Transportation Research Part E: Logistics and Transportation Review, Annals of Operations Research and other journals. 
-
-
-**About me**
-
 * 2020--      Resarch Scientist in Shenzhen Research Institute of Big Data(SRIBD)
 * 2014-2020   Assistant/Associate Professor in Nanjing University（NJU)
 * 2013 Ph.D   The Chinese University of Hong Kong (CUHK)
+
+**Research Interests**: 
+
+*Theories and Methodologies*:
+
+Mathematical modeling
+Distributionally robust optimization
+Game theory(cooperative and noncooperative game)
+Discrete and combinatorial optimization
+Statistic
+
+
+*Fields of Applications*: 
+
+Production planning and scheduling
+Revenue Management
+Logistics and Supply chain management
+Transportation
 
 
 
