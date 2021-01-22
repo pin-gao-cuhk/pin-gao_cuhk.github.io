@@ -46,10 +46,3 @@ redirect_from:
 \*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
 \*  Risk Pooling. Target to Production and Operations Management.(with Z.Cui, J.Ding, D. Long)<br/>
 
-
-
-
-
-
------
-
