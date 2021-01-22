@@ -19,11 +19,11 @@ redirect_from:
 
 * Theories and Methodologies
 
-- Mathematical modeling
-- Distributionally robust optimization
-- Game theory(cooperative and noncooperative game)
-- Discrete and combinatorial optimization
-- Statistic
+ - Mathematical modeling
+ - Distributionally robust optimization
+ - Game theory(cooperative and noncooperative game)
+ - Discrete and combinatorial optimization
+ - Statistic
 
 
 * Fields of Applications
