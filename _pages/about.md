@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: 
 excerpt: "About me"
@@ -7,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% include base_path %}
 
 
