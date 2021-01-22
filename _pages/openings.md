@@ -14,7 +14,6 @@ I am looking for self-motivated and hardworking Ph.D. students to work on variou
 
 Full-time M.Phil./Ph.D. students are normally considered eligible to receive a Postgraduate Scholarship (tuition fee covered (95,000/year) for 4 years, monthly salary 5000-10000 RMB) during the normative study period.
 
-
 ### Research Assistant
 I am looking for self-motivated and hardworking research assistants to work on research projects, focusing on systems engineering problems in the transportation, logistics and operations management. The main responsibilities include collecting, processing and analyzing data, reviewing literature, developing computational algorithms and programmes, and conducting computational experiments. The research assistants are expected to have good knowledge of mathematics, statistics, and simulation and strong programming skills. Experience in using optimization and simulation tools (such as IBM ILOG CPLEX, Gurobi, ARENA, and AnyLogic) and knowledge of logistics, supply chain and operations research will be advantageous.
 
