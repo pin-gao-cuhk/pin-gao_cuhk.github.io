@@ -9,17 +9,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+### Ph.D (With CUHKSZ degree)
+I am looking for self-motivated and hardworking Ph.D. students to work on various research topics. Focuses are on the theory and applications of operations research techniques (in particular, discrete optimization and systems simulation) and data-driven approaches for decision-making problems in the domains of transportation and logistics planning and operations management. The students should have a good degree in a related discipline (e.g., Applied Mathematics, Computer Science, Industrial Engineering, and Systems Engineering), a solid background in optimization, statistics and simulation and hands-on programming experience.
 
-[1]. Gao, Pin, Yuhang Ma, Ningyuan Chen, Guillermo Gallego, Anran Li, Paat Rusmevichientong and Huseyin Topaloglu, “Assortment Optimization and Pricing under the Multinomial Logit Model with Impatient Customers: Sequential Recommendation and Selection”, under 3rd round review after **Minor** revision at *Operations Research*. <br/> <br/>
-[2\*]. Chen, Ningyuan, Pin Gao and Steven Kou, “<a href="https://www.researchgate.net/publication/343635899_Does_the_Prohibition_of_Trade-Through_Hurt_Liquidity_Demanders" target="_blank"><span style="color:black">Does the Prohibition of Trade-Through Hurt Liquidity Demanders?</span></a>”, under  **Major** revision at *Operations Research*. <br/><br/>
-[4\*]. Chen, Ningyuan, Guillermo Gallego, Pin Gao and Steven Kou, “<a href="https://www.researchgate.net/publication/336906849_Dealership_or_Marketplace_A_Dynamic_Comparison" target="_blank"><span style="color:black">Dealership or Marketplace: A Dynamic Comparison</span></a>”, **R&R** at *Management Science*. <br/><br/>
-[5\* &dagger;]. Chen, Ying-Ju, Guillermo Gallego, Pin Gao and Yang Li, “<a href="https://www.researchgate.net/publication/344040967_A_Mechanism_Design_Perspective_of_Live-streaming_Commerce_The_Role_of_Information_Provision" target="_blank"><span style="color:black">A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision</span></a>”, to be submitted to *Management Science*. <a href="https://www.dropbox.com/s/cj2wainvl6cn955/slide_auction.pdf?dl=0" target="_blank"><span style="color:black">[Slide]</span></a><br/><br/> 
-[6\* &dagger;]. Chen, Kanglin, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Haoyu Liu, “<a href="https://www.researchgate.net/publication/345243177_Multi-Armed_Exponential_Bandit" target="_blank"><span style="color:black">Multi-armed Exponential Bandit </span></a>“,  to be submitted to *Operations Research*. <a href="https://www.dropbox.com/s/93k817pwspp9bzp/Multi%20Armed%20Exponential%20Bandit.pdf?dl=0" target="_blank"><span style="color:black">[Slide]</span></a> <a href="https://www.dropbox.com/s/qx198tkl6twzbk9/exponential_bandit.mp4?dl=0" target="_blank"><span style="color:black">[视频]</span></a><br/><br/>
-[7\* &dagger;]. Chen, Ningyuan, Pin Gao and Yang Li, “Privacy Preserving Product Recommendation”, in preparation.<br/><br/>
-[8]. Gao, Pin, Yingping He and Xiongjun Liu, “<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224509" target="_blank"><span style="color:black">Symmetry-Protected Non-Abelian Braiding of Majorana Kramers’ Pairs</span></a>”, *Phys. Rev. B 94, 224509 (2016)*.
+Full-time M.Phil./Ph.D. students are normally considered eligible to receive a Postgraduate Scholarship (tuition fee covered (95,000/year) for 4 years, monthly salary 5000-10000 RMB) during the normative study period.
 
 
+### Research Assistant
+I am looking for self-motivated and hardworking research assistants to work on research projects, focusing on systems engineering problems in the transportation, logistics and operations management. The main responsibilities include collecting, processing and analyzing data, reviewing literature, developing computational algorithms and programmes, and conducting computational experiments. The research assistants are expected to have good knowledge of mathematics, statistics, and simulation and strong programming skills. Experience in using optimization and simulation tools (such as IBM ILOG CPLEX, Gurobi, ARENA, and AnyLogic) and knowledge of logistics, supply chain and operations research will be advantageous.
 
-### Working In Progress
-
-A learn then assortment model; Quality certification in innovation competition; online product ranking.
+### Visiting Student
+I regularly host visiting students (at Master's and Ph.D. levels) to work with us on research projects, focusing on systems engineering problems in the transportation, logistics, and operations management. The main responsibilities include collecting, processing, and analyzing data and conducting computational experiments. Visiting students are expected to have good knowledge of mathematics, statistics, and simulation and strong programming skills. 
