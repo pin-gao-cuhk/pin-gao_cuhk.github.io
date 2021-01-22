@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ### Book Chapter
-[1].	Scheduling with Stochastic Approaches. In Sequencing and Scheduling with Inaccurate Data, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
+[1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Published Papers
 [15]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** Accept.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
