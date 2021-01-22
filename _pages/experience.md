@@ -28,14 +28,16 @@ Email: pgao@student.ust.hk
 
   - Jointly supervised with professors from leading universities overseas. 
   - Salaries will be comparable with the current international standards.
-  - More details see <a href="https://sds.cuhk.edu.cn/page/181" target="_blank"><span style="color:black">link</span></a>.
-
+  - More details see <a href="https://sds.cuhk.edu.cn/page/181" target="_blank"><span style="color:black">SDS_link</span></a> or <a href="http://www.sribd.cn/index.php/cn/%E4%BA%BA%E6%89%8D%E6%8B%9B%E8%81%98/phd-fellowship/2-%E4%B8%BB%E9%A1%B5/283-call-for-nominations-for-sribd-international-postdoctoral-fellowship-of-2020.html" target="_blank"><span style="color:black">SRIBD_link</span></a>.
+  
 * Regular Postdoctors
 
   - Fresh PhD graduates with background in areas related to operations research.
   - Competitive salary package (including 300,000RMB government supports, subject to qualification)
 
 * Research Assistants
+
+
 
 
 
