@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 ####   &dagger; Corresponding Author   \* The authors' names are alphabetically ordered.
 
-[1]. Gao, Pin, Yuhang Ma, Ningyuan Chen, Guillermo Gallego, Anran Li, Paat Rusmevichientong and Huseyin Topaloglu, “Assortment Optimization and Pricing under the Multinomial Logit Model with Impatient Customers: Sequential Recommendation and Selection”, under 3rd round review after **Minor** revision at *Operations Research*. <br/> <br/>
+[1]. Gao, Pin, Yuhang Ma, Ningyuan Chen, Guillermo Gallego, Anran Li, Paat Rusmevichientong and Huseyin Topaloglu, “Assortment Optimization and Pricing under the Multinomial Logit Model with Impatient Customers: Sequential Recommendation and Selection”,  **Accepted** at *Operations Research*. <br/> <br/>
 [2\*]. Chen, Ningyuan, Pin Gao and Steven Kou, “<a href="https://www.researchgate.net/publication/343635899_Does_the_Prohibition_of_Trade-Through_Hurt_Liquidity_Demanders" target="_blank"><span style="color:black">Does the Prohibition of Trade-Through Hurt Liquidity Demanders?</span></a>”, under  **Major** revision at *Operations Research*. <br/><br/>
 [3]. Gao, Pin, Xiaoshuai Fan, Sunny Huang and Ying-Ju Chen, 
 “<a href="https://www.researchgate.net/publication/343125047_Resource_Allocation_Among_Competing_Innovators" target="_blank"><span style="color:black">Resource Allocation Among Competing Innovators</span></a>”, under **Major** revision at *Management Science*. <a href="https://www.dropbox.com/s/9n2hunnyxwp3b7s/innovation_investment_slides.pdf?dl=0" target="_blank"><span style="color:black"></span>[Slide]</a><br/><br/>
