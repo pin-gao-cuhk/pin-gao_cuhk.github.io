@@ -26,7 +26,7 @@ redirect_from:
  - Statistic
 
 
-* Fields of Applications
+\\* Fields of Applications
 - Production planning and scheduling
 - Revenue Management
 - Logistics and Supply chain management
