@@ -19,18 +19,17 @@ redirect_from:
 
 \* Theories and Methodologies
 
- - Mathematical modeling
+ - Data-driven optimization/Data analysis
  - Distributionally robust optimization
- - Game theory(cooperative and noncooperative game)
  - Discrete and combinatorial optimization
- - Statistic
+ - Game theory(cooperative and noncooperative game)
 
 
 \* Fields of Applications
-- Production planning and scheduling
 - Revenue Management
-- Logistics and Supply chain management
-- Transportation
+- Logistics and supply chain management
+- Transportation, scheduling and inventory
+- Smart city
 
 
 
