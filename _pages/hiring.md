@@ -20,6 +20,7 @@ Email: pgao@student.ust.hk
     - Tuition waiver（up to RMB95,000 per year)
     - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
     - Other kinds of Scholarships
+    
   - Requirements:
     - With dol
   
