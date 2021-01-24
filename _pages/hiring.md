@@ -19,11 +19,10 @@ Email: pgao@student.ust.hk
   -  CUHK degree, flexible research directions,  international academic environment and extensive industry cooperation opportunities.
       - Tuition waiver（up to RMB95,000 per year)
       - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
-      - Other kinds of Scholarships
     
-  - Requirements:
-  
-    - With dol
+  - Requirements: very interested in both mathematics and business.
+    - Mathematics is a way to express ideas rigorously and rationally. Some techniches I use include statistics, stochastic process, convex analysis, complexity theory, etc. 
+    - My research is focused on applications. You need to pay attention to business development and gain insight into business trends.
   
 
   
