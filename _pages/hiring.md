@@ -21,8 +21,8 @@ Email: pgao@student.ust.hk
       - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
     
   - Requirements: very interested in both mathematics and business.
-    - Pay attention to business development and gain insight into business trends.
-    - Mathematics is a way to express ideas rigorously and rationally. Some techniches I use include statistics, stochastic process, convex analysis, complexity theory, etc. 
+    - Pay attention to business development and gain insight into business trends. Not required to learn any course from Economics. 
+    - Mathematics is a way to express ideas rigorously and rationally. Some techniches I use include statistics, stochastic process, convex analysis, complexity theory, etc. Students with a degree in Math/Physics/OR... are welcome.
   
 
   
