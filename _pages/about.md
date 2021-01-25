@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I will join the <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science at the Chinese University of Hong Kong (Shenzhen)</span></a> as an assistant professor in the summer of 2021.
-
-My research is focused on revenue management, especially in recommendation systems. Various methodoligies I use include multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
+I am an assistant professor in the <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science, the Chinese University of Hong Kong (Shenzhen)</span></a>. My research is focused on revenue management and innovation management. Various methodoligies I use include multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
 
 ### Education
 * Ph.D. in Operation Management, HKUST, 2017-2021. 
