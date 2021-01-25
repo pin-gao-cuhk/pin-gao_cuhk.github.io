@@ -22,7 +22,7 @@ If you are interested, please feel free to drop me an email at pgao@student.ust.
     
   - Requirements: very interested in both mathematics and business.
     - Pay attention to business development and gain insight into business trends. Not required to learn any course from Economics. 
-    - Mathematics is a way to express ideas rigorously and rationally. Some techniches I use include statistics, stochastic process, convex analysis, complexity theory, etc. Students with a degree in Math/Physics/OR... are welcome.
+    - Mathematics is a way to express ideas rigorously and rationally. Some techniques I use include statistics, stochastic process, convex analysis, complexity theory, etc. Students with a degree in Math/Physics/OR... are welcome.
   
 
   
