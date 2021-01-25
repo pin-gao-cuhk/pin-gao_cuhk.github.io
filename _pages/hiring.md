@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-If you are interested, feel free to drop me an email at pgao@student.ust.hk.
+If you are interested, please feel free to drop me an email at pgao@student.ust.hk.
 
 
 * PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
