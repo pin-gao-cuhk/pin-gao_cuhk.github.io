@@ -14,7 +14,7 @@ I am an assistant professor of operations management and operations research in 
 My research is focused on revenue management and innovation management. Various methodoligies I use include multi-armed bandits, online algorithms and mechanism design. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
 
 ### Education
-* Ph.D., **Operation Management**, HKUST, 2017-2021. 
+* Ph.D., **Operations Management**, HKUST, 2017-2021. 
   - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
   
 * Visiting Student, **Physics**, Peking University, 2015-2016
