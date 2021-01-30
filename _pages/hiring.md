@@ -23,7 +23,9 @@ To students: If you have a strong mathematical background and are interested in 
     - Pay attention to business development and gain insight into business trends. Not required to learn any course from Economics. I am currently doing some research on the innovation/recommendation/live-streaming market. Students are preferred if you have some independent view of these emerging markets. Students with a background in Economics/Operations Management/Information System... are welcome.
     - Mathematics is necessary to express ideas rigorously and rationally. Some techniques that you need to be familiar with, include statistics, stochastic process, convex analysis, complexity theory, etc.  Students with a degree in Math/Physics/Operations Research... are welcome.
   
-
+* Research Assistants
+  - A background in math/operations management... 
+  - You can either assit me on research or industry cooperation. 
   
 * CUHK-Shenzhen Presidential Postdoctoral Fellowships Program
 
@@ -36,7 +38,7 @@ To students: If you have a strong mathematical background and are interested in 
   - Fresh PhD graduates with background in areas related to operations research.
   - Competitive salary package (including 300K RMB government supports, subject to qualification)
 
-* Research Assistants
+
 
 
 
