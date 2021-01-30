@@ -14,7 +14,8 @@ To students: If you have a strong mathematical background and are interested in 
 
 * PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
   - According to policy, the application will be submitted to the school recruitment committee, who will make the final acceptance decision. Successful applicants will choose their advisors on the second year of their graduate studies. 
-  -  CUHK degree, flexible research directions,  international academic environment and extensive industry cooperation opportunities.
+  -  CUHK degree, flexible research directions and extensive industry cooperation opportunities.
+      - Courses teached in English. Exchange in leading overseas universities for at least half a year. 
       - Tuition waiver（up to RMB95,000 per year)
       - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
     
