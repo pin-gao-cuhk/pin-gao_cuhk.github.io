@@ -13,15 +13,14 @@ redirect_from:
 To students: If you have a strong mathematical background and are interested in visiting or working on a project with me, please drop me an email at pgao@student.ust.hk.
 
 * PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
-  
+  - According to policy, the application will be submitted to the school recruitment committee, which will make the final acceptance decision. 
   -  CUHK degree, flexible research directions,  international academic environment and extensive industry cooperation opportunities.
       - Tuition waiver（up to RMB95,000 per year)
       - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
     
   - Requirements: very interested in both mathematics and business.
     - Pay attention to business development and gain insight into business trends. Not required to learn any course from Economics. 
-    - Mathematics is a way to express ideas rigorously and rationally. Some techniques that you need to be familiar with, include statistics, stochastic process, convex analysis, complexity theory, etc. 
-    - Students with a degree in Math/Physics/OR... are welcome. Tell me your reading feedback on one of my papers before contacting me. 
+    - Mathematics is a way to express ideas rigorously and rationally. Some techniques that you need to be familiar with, include statistics, stochastic process, convex analysis, complexity theory, etc.  Students with a degree in Math/Physics/OR... are welcome.
   
 
   
