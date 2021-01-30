@@ -25,7 +25,7 @@ To students: If you have a strong mathematical background and are interested in 
   
 * Research Assistants
   - A background in math/operations management... 
-  - You can either assit me on research or industry cooperation. 
+  - You can assit me either on research or industry cooperation. 
   
 * CUHK-Shenzhen Presidential Postdoctoral Fellowships Program
 
