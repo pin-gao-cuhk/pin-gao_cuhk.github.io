@@ -19,8 +19,8 @@ To students: If you have a strong mathematical background and are interested in 
       - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
     
   - Requirements: very interested in both mathematics and business.
-    - Pay attention to business development and gain insight into business trends. Not required to learn any course from Economics. 
-    - Mathematics is a way to express ideas rigorously and rationally. Some techniques that you need to be familiar with, include statistics, stochastic process, convex analysis, complexity theory, etc.  Students with a degree in Math/Physics/OR... are welcome.
+    - Pay attention to business development and gain insight into business trends. Not required to learn any course from Economics. I am currently doing some research on the innovation/recommendation/live-streaming market. Students are preferred if you have some independent view of these emerging markets. Students with a background in Economics/Operations Management/Information System... are welcome.
+    - Mathematics is necessary to express ideas rigorously and rationally. Some techniques that you need to be familiar with, include statistics, stochastic process, convex analysis, complexity theory, etc.  Students with a degree in Math/Physics/Operations Research... are welcome.
   
 
   
