@@ -10,9 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-If you are interested, please feel free to drop me an email at pgao@student.ust.hk.
-
+To students: If you have a strong mathematical background and are interested in visiting or working on a project with me, please drop me an email at pgao@student.ust.hk.
 
 * PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
   
@@ -22,7 +20,8 @@ If you are interested, please feel free to drop me an email at pgao@student.ust.
     
   - Requirements: very interested in both mathematics and business.
     - Pay attention to business development and gain insight into business trends. Not required to learn any course from Economics. 
-    - Mathematics is a way to express ideas rigorously and rationally. Some techniques I use include statistics, stochastic process, convex analysis, complexity theory, etc. Students with a degree in Math/Physics/OR... are welcome.
+    - Mathematics is a way to express ideas rigorously and rationally. Some techniques that you need to be familiar with, include statistics, stochastic process, convex analysis, complexity theory, etc. 
+    - Students with a degree in Math/Physics/OR... are welcome. Tell me your reading feedback on one of my papers before contacting me. 
   
 
   
