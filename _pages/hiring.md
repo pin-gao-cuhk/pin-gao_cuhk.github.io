@@ -13,7 +13,7 @@ redirect_from:
 To students: If you have a strong mathematical background and are interested in visiting or working on a project with me, please drop me an email at pgao@student.ust.hk.
 
 * PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
-  - According to policy, the application will be submitted to the school recruitment committee, which will make the final acceptance decision. 
+  - According to policy, the application will be submitted to the school recruitment committee, who will make the final acceptance decision. Successful applicants will choose their advisors on the second year of their graduate studies. 
   -  CUHK degree, flexible research directions,  international academic environment and extensive industry cooperation opportunities.
       - Tuition waiver（up to RMB95,000 per year)
       - Stipend（will be paid for nine to twelve months a year, various levels, around RMB6000-RMB10000 pre-tax per month）
