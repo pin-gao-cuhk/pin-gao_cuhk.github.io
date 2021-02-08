@@ -15,7 +15,7 @@ redirect_from:
 
 ### Selected Journal Publication
 [16]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. Accept.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
-[15]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** Accept.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
+[15]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 2020.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
 [14]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
 [13].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**.(X.Lin, J. Zhou, Y.Zeng)<br/><br/>
 [12]. Single-Item Repairable Inventory System with New and Warranty Demand. **Transportation Research Part E: Logistics and Transportation Review**.142, 102035, 2020. (with Y.Lin, J.Leung, J.Gu)<br/><br/>
@@ -33,16 +33,16 @@ redirect_from:
 
 ### Under Revision/Review
 \*	Inventory Routing under Uncertainty, Operations Research. Under major revision.(with Z.Cui, D.Long, J.Qi)<br/>
-\*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Production and Operations Management. (with G.Yu, X.Cai, D.Long, L.Zhang) <br/>
+\*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long, L.Zhang) <br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
-\*	Pricing under Stochastic Nested Choice Model. Naval Research Logistic. (with L.Li, M.Li, G.Ke)<br/>
-\*	Distributionally Robust Optimization on Location-Transportation Problem. Transportation Research Part E: Logistics and Transportation Review. (with X.Wang, Y.Kuo, H.Shen)<br/>
-\*	Target-based Scheduling Problems. European Journal of Operations Research. (with H.Lu, Z.Pei, Q.Jin)<br/>
-\*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem, Omega. (with Y.Zheng, J.Li, Q.Fu)<br/>
-\*	Target-Based Distributionally Robust Knapsack Problem. International Transaction of Operations Research.(with J.Ding, L.Chen, G.Ke, Y.Li)<br/>
-\*	Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. Electronic Commerce Research and Applications.(with L.Guan, H.Chen, H.Ma)<br/>
-\*	Parallel machine total weighted completion time, International Journal of Product Research. (with Y.Li, R.Li, H.Shen)<br/>
+\*	Pricing under Stochastic Nested Choice Model. (with L.Li, M.Li, G.Ke)<br/>
+\*	Distributionally Robust Optimization on Location-Transportation Problem. (with X.Wang, Y.Kuo, H.Shen)<br/>
+\*	Target-based Scheduling Problems. (with H.Lu, Z.Pei, Q.Jin)<br/>
+\*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem. (with Y.Zheng, J.Li, Q.Fu)<br/>
+\*	Target-Based Distributionally Robust Knapsack Problem.(with J.Ding, L.Chen, G.Ke, Y.Li)<br/>
+\*	Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. (with L.Guan, H.Chen, H.Ma)<br/>
+\*	Parallel machine total weighted completion time. (with Y.Li, R.Li, H.Shen)<br/>
 \*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
-\*  Risk Pooling. Target to Production and Operations Management.(with Z.Cui, J.Ding, D. Long)<br/>
+\*  Risk Pooling.(with Z.Cui, J.Ding, D. Long)<br/>
 
