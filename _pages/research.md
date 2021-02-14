@@ -33,7 +33,7 @@ redirect_from:
 
 ### Under Revision/Review
 \*	Inventory Routing under Uncertainty, Operations Research. Under major revision.(with Z.Cui, D.Long, J.Qi)<br/>
-\*  Targe-based Inventory Pooling Problem.(with Z.Cui, J.Ding, D. Long)[SSRN](http://ssrn.com/abstract=3783162)<br/>
+\*  Target-based Inventory Pooling Problem.(with Z.Cui, J.Ding, D. Long)[SSRN](http://ssrn.com/abstract=3783162)<br/>
 \*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long, L.Zhang) <br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
