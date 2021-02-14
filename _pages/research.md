@@ -17,7 +17,7 @@ redirect_from:
 [16]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. Accept.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
 [15]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 2020.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
 [14]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
-[13].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**.(X.Lin, J. Zhou, Y.Zeng)<br/><br/>
+[13].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
 [12]. Single-Item Repairable Inventory System with New and Warranty Demand. **Transportation Research Part E: Logistics and Transportation Review**.142, 102035, 2020. (with Y.Lin, J.Leung, J.Gu)<br/><br/>
 [11]. Who Is Better Off by Selling Extended Warranties in the Supply Chain: the Manufacturer, the Retailer, or Both? **Annals of Operations Research**.(wiht L.Guan, D.Long, H.Shen, H.Tang)<br/><br/>
 [10]. Scheduling the Distribution of Perishable Products: A Vendor-managed Inventory Routing Approach. **Transportation Research Part E: Logistics and Transportation Review**. 140, 101964, 2020. (with W.Liu, G.Ke, J.Chen)<br/><br/>
