@@ -19,7 +19,7 @@ redirect_from:
 [14]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
 [13].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**.(X.Lin, J. Zhou, Y.Zeng)<br/><br/>
 [12]. Single-Item Repairable Inventory System with New and Warranty Demand. **Transportation Research Part E: Logistics and Transportation Review**.142, 102035, 2020. (with Y.Lin, J.Leung, J.Gu)<br/><br/>
-[11]. Who Is Better Off by Selling Extended Warranties in the Supply Chain: the Manufacturer, the Retailer, or Both? **Annals of Operations Research**.(L.Guan, D.Long, H.Shen, H.Tang)<br/><br/>
+[11]. Who Is Better Off by Selling Extended Warranties in the Supply Chain: the Manufacturer, the Retailer, or Both? **Annals of Operations Research**.(wiht L.Guan, D.Long, H.Shen, H.Tang)<br/><br/>
 [10]. Scheduling the Distribution of Perishable Products: A Vendor-managed Inventory Routing Approach. **Transportation Research Part E: Logistics and Transportation Review**. 140, 101964, 2020. (with W.Liu, G.Ke, J.Chen)<br/><br/>
 [9]. Heterogeneous Suppliers’ Contract Design in Assembly Systems with Asymmetric Information. **European Journal of Operational Research**. 286, 140-163, 2020. (with Y.Lan, X.Cai, C.Shang, R.Zhao)<br/><br/>
 [8]. Optimal Purchasing Policy for Fresh Products from Multiple Supply Sources with Considerations of Random Delivery Times, Risk, and Information, **Decision Science**. 51(6), 1377-1410,2020.(with X.Xu, X.Cai)<br/><br/>
@@ -33,6 +33,7 @@ redirect_from:
 
 ### Under Revision/Review
 \*	Inventory Routing under Uncertainty, Operations Research. Under major revision.(with Z.Cui, D.Long, J.Qi)<br/>
+\*  Targe-based Inventory Pooling Problem.(with Z.Cui, J.Ding, D. Long)[SSRN](http://ssrn.com/abstract=3783162)<br/>
 \*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long, L.Zhang) <br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
@@ -44,5 +45,5 @@ redirect_from:
 \*	Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. (with L.Guan, H.Chen, H.Ma)<br/>
 \*	Parallel machine total weighted completion time. (with Y.Li, R.Li, H.Shen)<br/>
 \*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
-\*  Risk Pooling.(with Z.Cui, J.Ding, D. Long)<br/>
+
 
