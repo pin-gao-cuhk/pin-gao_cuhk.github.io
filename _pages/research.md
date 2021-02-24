@@ -14,10 +14,10 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
-[16]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. Accept.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
-[15]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 2020.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
-[14]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
-[13].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
+[16].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**. 2021.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
+[15]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. Accept.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
+[14]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 2020.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
+[13]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
 [12]. Single-Item Repairable Inventory System with New and Warranty Demand. **Transportation Research Part E: Logistics and Transportation Review**.142, 102035, 2020. (with Y.Lin, J.Leung, J.Gu)<br/><br/>
 [11]. Who Is Better Off by Selling Extended Warranties in the Supply Chain: the Manufacturer, the Retailer, or Both? **Annals of Operations Research**.(wiht L.Guan, D.Long, H.Shen, H.Tang)<br/><br/>
 [10]. Scheduling the Distribution of Perishable Products: A Vendor-managed Inventory Routing Approach. **Transportation Research Part E: Logistics and Transportation Review**. 140, 101964, 2020. (with W.Liu, G.Ke, J.Chen)<br/><br/>
@@ -34,7 +34,7 @@ redirect_from:
 ### Under Revision/Review
 \*	Inventory Routing under Uncertainty, Operations Research. Under major revision.(with Z.Cui, D.Long, J.Qi)<br/>
 \*  Target-based Inventory Pooling Problem.(with Z.Cui, J.Ding, D. Long)[SSRN](http://ssrn.com/abstract=3783162)<br/>
-\*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long) <br/>
+\*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long)[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740629) <br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
 \*	Pricing under Stochastic Nested Choice Model. (with L.Li, M.Li, G.Ke)<br/>
