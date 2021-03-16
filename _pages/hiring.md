@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-To students: If you have a strong mathematical background and are interested in visiting or working on a project with me, please drop me an email at pgao@student.ust.hk.
+To students: If you have a strong mathematical background and are interested in visiting or working on a project with me, please drop me an email at pgao@connect.ust.hk.
 
 * PhD Students  [<a href="https://sds.cuhk.edu.cn/en/phd-programmes/applications" target="_blank"><span style="color:black">Application</span></a>]
   - According to policy, the application will be submitted to the school recruitment committee, who will make the final acceptance decision. Successful applicants will choose their advisors on the second year of their graduate studies. 
