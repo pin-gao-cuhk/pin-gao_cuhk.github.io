@@ -30,14 +30,3 @@ The methodoligies I use  include mechanism design, bandits and online algorithms
 During 2016 and 2017, I worked in e-commerce/Fintech companies as a business/data analyst.
 
 
-
-
-***
-  
-#### With all lowliness and meekness, with long-suffering, bearing one another in love. 
-#### 凡事卑微、温柔、恒忍，在爱里彼此担就.
-#### Ephesians 4:2
-
-<div id="sfca65yz9mwqd6fhn1rfutkx62b9g3mbg36"></div><noscript><a href="https://www.freecounterstat.com" title="website counter widget"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=a65yz9mwqd6fhn1rfutkx62b9g3mbg36" border="0" title="website counter widget" alt="website counter widget"></a></noscript>
-
-
