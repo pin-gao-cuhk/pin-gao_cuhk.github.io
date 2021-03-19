@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am an assistant professor of operations management in  <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science</span></a>, the Chinese University of Hong Kong, Shenzhen.
+I am an assistant professor at  <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science</span></a>, the Chinese University of Hong Kong, Shenzhen.
 
 My research is focused on revenue management and innovation management. 
 The methodoligies I use  include mechanism design, bandits and online algorithms. Recently, I am very interested in algorithmic game theory, privacy preserving recommendations and causal inference.
