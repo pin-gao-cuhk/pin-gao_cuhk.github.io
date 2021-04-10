@@ -15,7 +15,7 @@ redirect_from:
 
 ### Selected Journal Publication
 [16].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**. 2021.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
-[15]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. Accept.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
+[15]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. 107160, 2021.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
 [14]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 2020.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
 [13]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
 [12]. Single-Item Repairable Inventory System with New and Warranty Demand. **Transportation Research Part E: Logistics and Transportation Review**.142, 102035, 2020. (with Y.Lin, J.Leung, J.Gu)<br/><br/>
@@ -37,7 +37,7 @@ redirect_from:
 \*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long)[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740629) <br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
-\*	Pricing under Stochastic Nested Choice Model. (with L.Li, M.Li, G.Ke)<br/>
+\*	Pricing under Stochastic Nested Choice Model, Naval Research Logistic. Under minor revision.(with L.Li, M.Li, G.Ke)<br/>
 \*	Distributionally Robust Optimization on Location-Transportation Problem. (with X.Wang, Y.Kuo, H.Shen)<br/>
 \*	Target-based Scheduling Problems. (with H.Lu, Z.Pei, Q.Jin)<br/>
 \*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem. (with Y.Zheng, J.Li, Q.Fu)<br/>
