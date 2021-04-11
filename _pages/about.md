@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 I am an assistant professor at  <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science</span></a>, the Chinese University of Hong Kong, Shenzhen.
 
-* The methodoligies I use include mechanism design, dyanmic programming, complexity analysis, bandits and online algorithms. Recently, I am also very interested in algorithmic game theory and privacy preserving algorithms. 
+* The methodoligies I use include mechanism design, dyanmic programming, complexity analysis, stochastic optimization, bandits and online algorithms. Recently, I am also very interested in algorithmic game theory and privacy preserving algorithms. 
 * Applications include revenue management in recommendation systems (like live-streaming platforms), investment management in innovation market, player matching in games, etc. 
 
 **To students**: If you have a strong **mathematical** background and are interested in visiting or working on a project with me, please drop me an email at pgao@connect.ust.hk.
