@@ -17,7 +17,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
   * Investment management in innovation market
   * Player matching in games (which I have no papers relevant to, but aim to focus on in the future)
   * Policy implications for government (for example carbon emission control) etc. 
-* In order to outpt good application articles and convince the industry, I am learning and have grasped many methodologies, including:
+* In order to outpt good application articles and convince the industry, I am learning and have grasped various methodologies, including:
   *  Mechanism design
   *  Dyanmic programming and stochastic optimization
   *  Complexity analysis, bandits and online algorithms. 
