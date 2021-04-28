@@ -34,7 +34,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 * Ph.D., **Operations Management**, HKUST, 2017.09-2021.05. 
   - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
 * Business/data analyst, A Fintech company, 2017.02-2017.06
-* Unemployed homeless， ShenZhen, 2016.07-2017.01
+* **Unemployed Homeless**， ShenZhen, 2016.07-2017.01
 * Business/data analyst, A E-commerce company, 2016.01-2016.06
 * Visiting Student, **Physics**, Peking University, 2015.10-2015.12
 * M.Phil., **Theoretical Physics**, HKUST, 2013-2015
