@@ -25,7 +25,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
   *  Recently, I am also very interested in algorithmic game theory and privacy preserving algorithms. 
 * I will devote half of my attention to empirical study in the future.
  
-### To students**: 
+### To students: 
 * If you have a strong **mathematical** background and are interested in visiting or working on a project with me, please drop me an email at pgao@connect.ust.hk.
 * I already have three potential graduates with bachelor's degrees in mathematics, economics and business. I may not be able to support more students. Cooperations are always welcome. 
 
