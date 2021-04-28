@@ -39,7 +39,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 * Visiting Student, **Physics**, Peking University, 2015.10-2015.12
   - Advisor: <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm" target="_blank"><span style="color:blue">Xiongjun Liu</span></a>
 * M.Phil., **Theoretical Physics**, HKUST, 2013.07-2015.07
-  - Failed to finish my first PhD degree in Physis after two-years struggling.
+  - Failed to finish the PhD degree in Physis after two-years struggling.
   - Advisor: <a href="http://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:blue">Taikai Ng</span></a>
 * B.Sc. **Physics**, Wuhan University, 2009.09-2013.06
 
