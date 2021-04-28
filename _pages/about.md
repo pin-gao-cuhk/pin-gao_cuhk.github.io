@@ -15,7 +15,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 * I like research with real-wrold applications. Personally, I am trying to and desire to cooperate with industry. Specifially, I focus on:
   * Revenue management in recommendation systems (like live-streaming platforms)
   * Investment management in innovation market
-  * Player matching in games (which I have no paper related to, but aim to focus on in the future)
+  * Player matching in games (which I have no papers relevant to, but aim to focus on in the future)
   * Policy implications for government (for example carbon emission control) etc. 
 * In order to outpt good application articles and convince the industry, I am learning and have grasped many methodologies, including:
   *  Mechanism design
