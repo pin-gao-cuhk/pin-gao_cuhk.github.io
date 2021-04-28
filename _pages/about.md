@@ -19,9 +19,8 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
   * Policy implications for government (for example carbon emission control) etc. 
 * In order to outpt good application articles and convince the industry, I am learning and have grasped many methodologies, including:
   *  Mechanism design
-  *  Dyanmic programming
   *  Complexity analysis
-  *  \Stochastic optimization
+  *  Dyanmic programming, Stochastic optimization
   *  Bandits and online algorithms. 
   *  Recently, I am also very interested in algorithmic game theory and privacy preserving algorithms. 
 * I will devote half of my attention on empirical study in the future.
