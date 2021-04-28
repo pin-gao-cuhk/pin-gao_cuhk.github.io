@@ -38,7 +38,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 * Business/data analyst, A E-commerce company, 2016.01-2016.06
 * Visiting Student, **Physics**, Peking University, 2015.10-2015.12
 * M.Phil., **Theoretical Physics**, HKUST, 2013-2015
-** Failed to finish my first PHD degree.
+  * Failed to finish my first PHD degree.
 * B.Sc. **Physics**, Wuhan University, 2009-2013
 
 
