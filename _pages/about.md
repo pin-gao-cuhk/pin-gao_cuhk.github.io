@@ -33,15 +33,15 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 
 * Ph.D., **Operations Management**, HKUST, 2017.09-2021.05. 
   - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
-* Business/data analyst, A Fintech company, 2017.02-2017.06
-* **Unemployed Homeless**， ShenZhen, 2016.07-2017.01
-* Business/data analyst, A E-commerce company, 2016.01-2016.06
+* Business/data analyst, A Fintech Company, 2017.02-2017.06
+* Unemployed Homeless，ShenZhen, 2016.07-2017.01
+* Business/data analyst, A E-commerce Company, 2016.01-2016.06
 * Visiting Student, **Physics**, Peking University, 2015.10-2015.12
   - Advisor: <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm" target="_blank"><span style="color:blue">Xiongjun Liu</span></a>
-* M.Phil., **Theoretical Physics**, HKUST, 2013-2015
+* M.Phil., **Theoretical Physics**, HKUST, 2013.07-2015.07
   - Failed to finish my first PHD degree.
   - Advisor: <a href="http://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:blue">Taikai Ng</span></a>
-* B.Sc. **Physics**, Wuhan University, 2009-2013
+* B.Sc. **Physics**, Wuhan University, 2009.09-2013.06
 
 
 
