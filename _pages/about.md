@@ -18,20 +18,19 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
  
 ### To students**: 
 * If you have a strong **mathematical** background and are interested in visiting or working on a project with me, please drop me an email at pgao@connect.ust.hk.
-* I have already three potential graduates with degrees of math, econmics, business, respectively. I may not be able to support more students. 
+* I already have three potential graduates with bachelor's degrees in mathematics, economics and business. I may not be able to support more students. Cooperations are always welcome. 
 
+### Experience
 
-### Education
-* Ph.D., **Operations Management**, HKUST, 2017-2021. 
+* Ph.D., **Operations Management**, HKUST, 2017.09-2021.05. 
   - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
-  
-* Visiting Student, **Physics**, Peking University, 2015-2016
-
+* Business/data analyst, A Fintech company, 2017.02-2017.06
+* Unemployed homeless， ShenZhen, 2016.07-2017.01
+* Business/data analyst, A E-commerce company, 2016.01-2016.06
+* Visiting Student, **Physics**, Peking University, 2015.10-2015.12
 * M.Phil., **Theoretical Physics**, HKUST, 2013-2015
-
+** Failed to finish my first PHD degree.
 * B.Sc. **Physics**, Wuhan University, 2009-2013
 
-### Industry Experience
-During 2016 and 2017, I worked in e-commerce/Fintech companies as a business/data analyst.
 
 
