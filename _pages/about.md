@@ -12,7 +12,7 @@ redirect_from:
 I am an assistant professor of **Operations Management** at  <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science</span></a>, the Chinese University of Hong Kong, Shenzhen.
 
 ### Research Interests
-* I like research with real-wrold applications. Personally, I am trying to and desire to cooperate with industry. Specifially, I focus on:
+* I like research with real-wrold applications, focused on:
   * Revenue management in recommendation systems (like live-streaming platforms)
   * Investment management in innovation market
   * Player matching in games (which I have no papers relevant to, but aim to focus on in the future)
