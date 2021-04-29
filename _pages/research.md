@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-I have had the privilege of working with and learning from my coauthors on some of the projects below: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a>, <a href="https://www.bu.edu/questrom/profile/steven-kou/" target="_blank"><span style="color:blue">Steven Kou</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:blue">Ying-Ju Chen</span></a>, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/ali" target="_blank"><span style="color:blue">Anran Li</span></a>,  <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:blue">Yang Li</span></a>, <a href="https://sites.google.com/site/sunnyelan/" target="_blank"><span style="color:blue">Sunny Huang</span></a>, <a href="https://scholar.google.com/citations?user=lKZHaAIAAAAJ&hl=zh-CN" target="_blank"><span style="color:blue">Xiaoshuai Fan</span></a>, <a href="https://www.haoyu-liu.com/" target="_blank"><span style="color:blue">Haoyu Liu</span></a>, Kanglin Chen, etc.
-
------
 ####   &dagger; Corresponding Author   \* The authors' names are alphabetically ordered.
 
 [1]. Gao, Pin, Xiaoshuai Fan, Sunny Huang and Ying-Ju Chen, 
@@ -27,5 +24,5 @@ I have had the privilege of working with and learning from my coauthors on some 
 [10]. Gao, Pin, Yingping He and Xiongjun Liu, “<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224509" target="_blank"><span style="color:black">Symmetry-Protected Non-Abelian Braiding of Majorana Kramers’ Pairs</span></a>”, *Phys. Rev. B 94, 224509 (2016)*.
 
 
-
-
+--------
+I have had the privilege of working with and learning from my coauthors on some of the projects below: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a>, <a href="https://www.bu.edu/questrom/profile/steven-kou/" target="_blank"><span style="color:blue">Steven Kou</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:blue">Ying-Ju Chen</span></a>, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/ali" target="_blank"><span style="color:blue">Anran Li</span></a>,  <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:blue">Yang Li</span></a>, <a href="https://sites.google.com/site/sunnyelan/" target="_blank"><span style="color:blue">Sunny Huang</span></a>, <a href="https://scholar.google.com/citations?user=lKZHaAIAAAAJ&hl=zh-CN" target="_blank"><span style="color:blue">Xiaoshuai Fan</span></a>, <a href="https://www.haoyu-liu.com/" target="_blank"><span style="color:blue">Haoyu Liu</span></a>, Kanglin Chen, etc.
