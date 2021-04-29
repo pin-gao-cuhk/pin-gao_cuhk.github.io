@@ -22,7 +22,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
   *  Dyanmic programming and stochastic optimization
   *  Complexity analysis, bandits and online algorithms. 
   *  Recently, I am also very interested in algorithmic game theory and privacy preserving algorithms. 
-* I will devote half of my attention to empirical study in the future.
+
  
 ### To students: 
 * If you have a strong **mathematical** background and are interested in visiting or working on a project with me, please drop me an email at pgao@connect.ust.hk.
