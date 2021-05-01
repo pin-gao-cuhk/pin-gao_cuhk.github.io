@@ -26,9 +26,6 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
  
 ### To students: 
 * If you have a strong **mathematical** background and are interested in visiting or working on a project with me, please drop me an email at pgao@connect.ust.hk.
-* I already have three potential graduates with bachelor's degrees in mathematics (NanJing University), economics (University of International Business and Economics) and business (Minnesota). I may not be able to support more students. Cooperations are always welcome and special opportunities always exist.
-
-### Experience
 
 * Ph.D., **Operations Management**, HKUST, 2017.09-2021.05. 
   - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a> and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>.
