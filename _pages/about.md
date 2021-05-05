@@ -13,10 +13,10 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 
 ### Research Interests
 * I like research with real-wrold applications, focused on:
-  * Revenue management in recommendation systems (like live-streaming platforms)
+  * Revenue management in recommendation systems (e.g. live-streaming platforms)
   * Investment management in innovation market
-  * Player matching in games
-  * Policy implications for government (for example carbon emission control) etc. 
+  * Policy implications for government (e.g. carbon emission control)
+  * Game design, etc. 
 * I am learning and have grasped various methodologies, including:
   *  Mechanism design
   *  Dyanmic programming and stochastic optimization
