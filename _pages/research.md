@@ -21,8 +21,12 @@ redirect_from:
 [7 &dagger;].  <a href="https://xingyu-fu.github.io/" target="_blank"><span style="color:blue">Fu, Xingyu</span></a>, Ying-Ju Chen,  Guillermo Gallego and Pin Gao, “<a href="https://www.researchgate.net/publication/351048835_Intra-Platform_Policy_Implementation" target="_blank"><span style="color:black">Intra-Platform Policy Implementation</span></a>“. Under Review.<br/><br/>
 [8]. Gao Pin, Haoyu Liu and Ying-Ju Chen, “Add-Ons in Services”. Under Review.<br/><br/> 
 [9\* &dagger;]. Chen, Ningyuan, Pin Gao and Yang Li, “Privacy Preserving Product Recommendation”. In Preparation.<br/><br/>
-[10]. Gao, Pin, Yingping He and Xiongjun Liu, “<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224509" target="_blank"><span style="color:black">Symmetry-Protected Non-Abelian Braiding of Majorana Kramers’ Pairs</span></a>”, *Phys. Rev. B 94, 224509 (2016)*.
+
 
 
 --------
 I have had the privilege of working with and learning from my coauthors on some of the projects above: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a>, <a href="https://www.bu.edu/questrom/profile/steven-kou/" target="_blank"><span style="color:blue">Steven Kou</span></a>, <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:blue">Ying-Ju Chen</span></a>, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/ali" target="_blank"><span style="color:blue">Anran Li</span></a>,  <a href="https://www.bschool.cuhk.edu.hk/staff/li-yang/" target="_blank"><span style="color:blue">Yang Li</span></a>, <a href="https://sites.google.com/site/sunnyelan/" target="_blank"><span style="color:blue">Sunny Huang</span></a>, <a href="https://www.sustech.edu.cn/en/fanxiaoshuai.html?lang=en" target="_blank"><span style="color:blue">Xiaoshuai Fan</span></a>, <a href="https://www.haoyu-liu.com/" target="_blank"><span style="color:blue">Haoyu Liu</span></a>, Kanglin Chen, etc.
+
+--------
+### Other Publication
+[10]. Gao, Pin, Yingping He and Xiongjun Liu, “<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224509" target="_blank"><span style="color:black">Symmetry-Protected Non-Abelian Braiding of Majorana Kramers’ Pairs</span></a>”, *Phys. Rev. B 94, 224509 (2016)*.
