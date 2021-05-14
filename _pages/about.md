@@ -31,8 +31,8 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 ### Experience
 * Ph.D., **Operations Management**, HKUST, 2017.09-2021.05. 
   - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a>, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a> and <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:blue">Ying-Ju Chen</span></a> (unofficial).
-* Quantitative Analyst/Product Associate, A Fintech Company, 2017.02-2017.06
-* Business/Data Analyst, A E-commerce Company, 2016.01-2016.06
+* Quantitative Analyst/Product Associate, Fintech Company, 2017.02-2017.06
+* Business/Data Analyst, E-commerce Company, 2016.01-2016.06
 * Visiting Student, **Physics**, Peking University, 2015.10-2015.12
   - Advisor: <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm" target="_blank"><span style="color:blue">Xiongjun Liu</span></a>
 * M.Phil., **Theoretical Physics**, HKUST, 2013.07-2015.07
