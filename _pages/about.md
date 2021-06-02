@@ -25,7 +25,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 
  
 ### To students: 
-* If you have a strong **mathematical** background and are interested in visiting or working on a project with me, please drop me an email at g [mailto](mailto:gaopin@cuhk.edu.cn).
+* If you have a strong **mathematical** background and are interested in visiting or working on a project with me, please drop me an email at [gaopin@cuhk.edu.cn](mailto:gaopin@cuhk.edu.cn).
 
 
 ### Experience
