@@ -42,7 +42,6 @@ redirect_from:
 \*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long)<br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
-\*	Pricing under Stochastic Nested Choice Model, Naval Research Logistic. Under minor revision.(with L.Li, M.Li, G.Ke)<br/>
 \*	Distributionally Robust Optimization on Location-Transportation Problem. (with X.Wang, Y.Kuo, H.Shen)<br/>
 \*	Target-based Scheduling Problems. (with H.Lu, Z.Pei, Q.Jin)<br/>
 \*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem. (with Y.Zheng, J.Li, Q.Fu)<br/>
