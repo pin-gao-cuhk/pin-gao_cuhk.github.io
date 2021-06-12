@@ -14,7 +14,7 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
-[17].Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistic**. Accept.2021. (with L.Li, M.Li, G.Ke)<br/><br/>
+[17].Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. Accept.2021. (with L.Li, M.Li, G.Ke)<br/><br/>
 [16].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**. 2021.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
 [15]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. 107160, 2021.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
 [14]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 2020.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
