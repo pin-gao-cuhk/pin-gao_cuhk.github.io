@@ -18,7 +18,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
   *  Mechanism design / dyanmic programming / stochastic optimization / complexity analysis, etc.
   *  Recently, I am also very interested in algorithmic game theory and privacy preserving algorithms. 
 
-### I am recruiting research assistants and postdoctoral fellows who are interested in working on robust optimization or revenue management. If interested, please contact me via email.
+### I am recruiting 1-3 postdoctoral fellows.
 
 
 ### Experience
