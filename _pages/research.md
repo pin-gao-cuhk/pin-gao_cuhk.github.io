@@ -8,10 +8,7 @@ redirect_from:
   - /markdown.html
 ---
 
-{% include base_path %}
-### To students: 
-If you have a strong **mathematical** background and are interested in visiting or working on a project with me, please first **read** one of my papers then drop me an email at [gaopin@cuhk.edu.cn](mailto:gaopin@cuhk.edu.cn).
-* 
+{% include base_path %} 
 ####   &dagger; Corresponding Author   \* The authors' names are alphabetically ordered.
 
 [1]. Gao, Pin, Xiaoshuai Fan, Sunny Huang and Ying-Ju Chen, 
