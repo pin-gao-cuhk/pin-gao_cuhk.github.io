@@ -13,14 +13,9 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 
 ### Research Interests
 * I like research with real-wrold applications, focused on:
-  * Revenue management in recommendation systems (e.g. live-streaming platforms)
-  * Investment management in innovation market
-  * Policy implications for government (e.g. carbon emission control)
-  * Game design, etc. 
+  * Revenue management / investment managemen / sustainable operations / game design, etc. 
 * I am learning and have grasped various methodologies, including:
-  *  Mechanism design
-  *  Dyanmic programming and stochastic optimization
-  *  Complexity analysis, bandits and online algorithms. 
+  *  Mechanism design / dyanmic programming / stochastic optimization / complexity analysis, etc.
   *  Recently, I am also very interested in algorithmic game theory and privacy preserving algorithms. 
 
 
