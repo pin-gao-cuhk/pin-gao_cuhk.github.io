@@ -24,7 +24,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 * Sustainable Operations 
 * Economics: emerging business mode, data market, privacy, etc. 
 
-### Industry
+### Industry Experience
 * Quantitative Analyst/Product Associate, Fintech Company, 2017.02-2017.06
 * Business/Data Analyst, E-commerce Company, 2016.01-2016.06
 
