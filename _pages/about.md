@@ -25,8 +25,8 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 * Economics: emerging business mode, data market, privacy, etc. 
 
 ### Industry Experience
-* Quantitative Analyst/Product Associate, Fintech Company, 2017.02-2017.06
-* Business/Data Analyst, E-commerce Company, 2016.01-2016.06
+* Quantitative Analyst/Product Associate, Fintech Company, 2017
+* Business/Data Analyst, E-commerce Company, 2016
 
 ### Students 
 * Li Guokai, Jontly supervised with Prof. <a href="https://mypage.cuhk.edu.cn/academics/wangzizhuo/" target="_blank"><span style="color:blue">Zizhuo Wang</span></a>
