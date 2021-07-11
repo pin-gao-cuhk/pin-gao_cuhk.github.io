@@ -29,7 +29,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 * Business/Data Analyst, E-commerce Company, 2016
 
 ### Students 
-* Li Guokai: Presidential Fellowship; Bachelor's from Xi'an Jiaotong University (Ranked 1st, jointly supervised with <a href="https://mypage.cuhk.edu.cn/academics/wangzizhuo/" target="_blank"><span style="color:blue">Zizhuo Wang</span></a>)
+* Li Guokai: Presidential Fellowship; Bachelor's from XJTU (Ranked 1st, jointly supervised with <a href="https://mypage.cuhk.edu.cn/academics/wangzizhuo/" target="_blank"><span style="color:blue">Zizhuo Wang</span></a>)
 * Wang Shaoyu: Bachelor's from CUHK-SZ
 * Xiao Yajun: Bachelor's from Minnesota University
 
