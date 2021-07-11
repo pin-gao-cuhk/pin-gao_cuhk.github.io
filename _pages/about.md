@@ -29,8 +29,9 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 * Business/Data Analyst, E-commerce Company, 2016
 
 ### Teaching
-* Probability and Statistics I, STA2001, CUHKSZ, Spring 2022
+
 * Introduction to Data Science, DDA2001, CUHKSZ, Fall 2021
+* Probability and Statistics I, STA2001, CUHKSZ, Spring 2022
 
 ### PhD Students 
 * Li Guokai: Presidential Fellowship; Bachelor's from XJTU (Ranked 1st, jointly supervised with <a href="https://mypage.cuhk.edu.cn/academics/wangzizhuo/" target="_blank"><span style="color:blue">Zizhuo Wang</span></a>), 2020-2025 (expected)
