@@ -41,7 +41,7 @@ redirect_from:
 \*	Inventory Routing under Uncertainty, Operations Research. Under major revision.(with Z.Cui, D.Long, J.Qi)<br/>
 \*  Target-based Inventory Pooling Problem.(with Z.Cui, J.Ding, D. Long)<br/>
 \*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long)<br/>
-\*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
+\*  Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach.(with M. Fu, X.Li)<br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
 \*	Distributionally Robust Optimization on Location-Transportation Problem. (with X.Wang, Y.Kuo, H.Shen)<br/>
 \*	Target-based Scheduling Problems. (with H.Lu, Z.Pei, Q.Jin)<br/>
@@ -49,5 +49,6 @@ redirect_from:
 \*	Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. (with L.Guan, H.Chen, H.Ma)<br/>
 \*	Parallel machine total weighted completion time. (with Y.Li, R.Li, H.Shen)<br/>
 \*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
+\*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 
 
