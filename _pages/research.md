@@ -21,7 +21,7 @@ redirect_from:
 [6\* &dagger;]. Chen, Ningyuan, Pin Gao and Yang Li, “Privacy Preserving Product Recommendation”. In Preparation.<br/><br/>
 
 
-### Pulished Papers
+### Published Papers
 
 [1]. Gao, Pin, Xiaoshuai Fan, Sunny Huang and Ying-Ju Chen, 
 “<a href="https://www.researchgate.net/publication/343125047_Resource_Allocation_Among_Competing_Innovators" target="_blank"><span style="color:black">Resource Allocation Among Competing Innovators</span></a>”,   *Management Science*, forthcoming. [<a href="https://www.dropbox.com/s/9n2hunnyxwp3b7s/innovation_investment_slides.pdf?dl=0" target="_blank"><span style="color:blue"></span>Slide</a>, In media: <a href="https://iems.ust.hk/publications/thought-leadership-briefs/huang-resource-allocation-among-competing-innovators-tlb46" target="_blank"><span style="color:blue"></span>IEMS</a>]<br/><br/>
