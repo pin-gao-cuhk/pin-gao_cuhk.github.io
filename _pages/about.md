@@ -22,7 +22,7 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 ### Research Interests
 * Pricing and Revenue Management
 * Sustainable Operations 
-* Economics: emerging business mode, innovation and investment, data market, etc. 
+* Economics: emerging business, innovation and investment, data market, etc. 
 
 ### Industry Experience
 * Quantitative Analyst/Product Associate, Fintech Company, 2017
