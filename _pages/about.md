@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 I am an assistant professor of **Operations Management** at  <a href="https://sds.cuhk.edu.cn/" target="_blank"><span style="color:black">School of Data Science</span></a>, the Chinese University of Hong Kong, Shenzhen. 
 
-![Pin's CV](https://www.dropbox.com/s/s3dh8fqvl6nqnuo/CV-Pin.pdf?dl=0)
+[Pin's CV](https://www.dropbox.com/s/s3dh8fqvl6nqnuo/CV-Pin.pdf?dl=0)
 
 ### Education Background
 * Ph.D., **Operations Management**, HKUST, 2017 - 2021. 
