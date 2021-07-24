@@ -15,9 +15,8 @@ I am an assistant professor of **Operations Management** at  <a href="https://sd
 
 ### Education Background
 * Ph.D., **Operations Management**, HKUST, 2017 - 2021. 
-  - Advisors: <a href="https://ieda.ust.hk/dfaculty/ggallego/" target="_blank"><span style="color:blue">Guillermo Gallego</span></a>, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><span style="color:blue">Ningyuan Chen</span></a> (UofT) and <a href="https://imchen.people.ust.hk/" target="_blank"><span style="color:blue">Ying-Ju Chen</span></a>.
-* M.Phil. student of <a href="http://physics.ust.hk/eng/people_detail.php?pplcat=1&id=7" target="_blank"><span style="color:blue">Tai-Kai Ng</span></a>, **Theoretical Physics**, HKUST, 2013 - 2015. 
-* Visiting student of <a href="https://icqm.pku.edu.cn/yw/directory/faculty/237465.htm" target="_blank"><span style="color:blue">Xiongjun Liu</span></a>, **Physics**, Peking University, 2015
+* M.Phil., **Theoretical Physics**, HKUST, 2013 - 2015. 
+* Visiting student, **Physics**, Peking University, 2015
 * B.Sc. **Physics**, Wuhan University, 2009 - 2013
 
 ### Research Interests
