@@ -20,7 +20,7 @@ redirect_from:
 [4\* &dagger;]. Chen, Kanglin, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Haoyu Liu, “<a href="https://www.researchgate.net/publication/345243177_Multi-Armed_Exponential_Bandit" target="_blank"><span style="color:black">Multi-Armed Exponential Bandit </span></a>“, under review.<br/><br/>
 [5 &dagger;].  <a href="https://xingyu-fu.github.io/" target="_blank"><span style="color:blue">Fu, Xingyu</span></a>, Ying-Ju Chen,  Guillermo Gallego and Pin Gao, “<a href="https://www.researchgate.net/publication/351048835_Intra-Platform_Policy_Implementation" target="_blank"><span style="color:black">Policy Implementation in the Presence of Platform-Retailer Conflict</span></a>“, under review.<br/><br/>
 [6\* &dagger;]. Chen, Ningyuan, Pin Gao and Yang Li, “Privacy Preserving Product Recommendation”， in preparation.<br/><br/>
-[7 &dagger;].Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?”, In Preparation.<br/><br/>
+[7 &dagger;]. Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?”, In Preparation.<br/><br/>
 
 ### Published Papers
 
