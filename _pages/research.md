@@ -18,9 +18,11 @@ redirect_from:
 [2\*]. Chen, Ningyuan, Pin Gao and Steven Kou, “<a href="https://www.researchgate.net/publication/343635899_Does_the_Prohibition_of_Trade-Through_Hurt_Liquidity_Demanders" target="_blank"><span style="color:black">Does the Prohibition of Trade-Through Hurt Liquidity Demanders?</span></a>”,  major revision. <br/><br/>
 [3\*]. Chen, Ningyuan, Guillermo Gallego, Pin Gao and Steven Kou, “<a href="https://www.researchgate.net/publication/336906849_Dealership_or_Marketplace_A_Dynamic_Comparison" target="_blank"><span style="color:black">Dealership or Marketplace: A Dynamic Comparison</span></a>”, R&R. <br/><br/>
 [4\* &dagger;]. Chen, Kanglin, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Haoyu Liu, “<a href="https://www.researchgate.net/publication/345243177_Multi-Armed_Exponential_Bandit" target="_blank"><span style="color:black">Multi-Armed Exponential Bandit </span></a>“, under review.<br/><br/>
-[5 &dagger;].  <a href="https://xingyu-fu.github.io/" target="_blank"><span style="color:blue">Fu, Xingyu</span></a>, Ying-Ju Chen,  Guillermo Gallego and Pin Gao, “<a href="https://www.researchgate.net/publication/351048835_Intra-Platform_Policy_Implementation" target="_blank"><span style="color:black">Policy Implementation in the Presence of Platform-Retailer Conflict</span></a>“, under review.<br/><br/>
-[6\* &dagger;]. Chen, Ningyuan, Pin Gao, Yang Li and Xiaoquan Zhang, “Privacy Preserving Product Recommendation”, in preparation.<br/><br/>
-[7 &dagger;]. Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?”, in preparation.<br/><br/>
+[5 &dagger;].  <a href="https://xingyu-fu.github.io/" target="_blank"><span style="color:blue">Fu, Xingyu</span></a>, Ying-Ju Chen,  Guillermo Gallego and Pin Gao, “<a href="https://www.researchgate.net/publication/351048835_Intra-Platform_Policy_Implementation" target="_blank"><span style="color:black">Policy Implementation in the Presence of Platform-Retailer Conflict</span></a>“, , R&R. <br/><br/>
+[6 &dagger;]. Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “<a href="
+https://www.researchgate.net/publication/353719245_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits" target="_blank"><span style="color:black">When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?</span></a>“, to be submitted.<br/><br/>
+[7\* &dagger;]. Chen, Ningyuan, Pin Gao, Yang Li and Xiaoquan Zhang, “Privacy Preserving Product Recommendation”, in preparation.<br/><br/>
+
 
 ### Published Papers
 
