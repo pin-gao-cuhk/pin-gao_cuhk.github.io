@@ -14,14 +14,14 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
-[18].Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. Accept.(with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
-[17].Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. Accept.2021. (with L.Li, M.Li, G.Ke)<br/><br/>
-[16].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**. 2021.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
+[18].Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. Forthcoming. 2021. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
+[17].Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. Forthcoming.2021. (with L.Li, M.Li, G.Ke)<br/><br/>
+[16].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**. Forthcoming.2021.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
 [15]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. 107160, 2021.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
-[14]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 2020.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
+[14]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 1-20, 2021.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
 [13]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
-[12]. Single-Item Repairable Inventory System with New and Warranty Demand. **Transportation Research Part E: Logistics and Transportation Review**.142, 102035, 2020. (with Y.Lin, J.Leung, J.Gu)<br/><br/>
-[11]. Who Is Better Off by Selling Extended Warranties in the Supply Chain: the Manufacturer, the Retailer, or Both? **Annals of Operations Research**.(wiht L.Guan, D.Long, H.Shen, H.Tang)<br/><br/>
+[12]. Who Is Better Off by Selling Extended Warranties in the Supply Chain: the Manufacturer, the Retailer, or Both? **Annals of Operations Research**. Forthcoming. 2021 (with L.Guan, D.Long, H.Shen, H.Tang)<br/><br/>
+[11]. Single-Item Repairable Inventory System with New and Warranty Demand. **Transportation Research Part E: Logistics and Transportation Review**.142, 102035, 1-17, 2020. (with Y.Lin, J.Leung, J.Gu)<br/><br/>
 [10]. Scheduling the Distribution of Perishable Products: A Vendor-managed Inventory Routing Approach. **Transportation Research Part E: Logistics and Transportation Review**. 140, 101964, 2020. (with W.Liu, G.Ke, J.Chen)<br/><br/>
 [9]. Heterogeneous Suppliers’ Contract Design in Assembly Systems with Asymmetric Information. **European Journal of Operational Research**. 286, 140-163, 2020. (with Y.Lan, X.Cai, C.Shang, R.Zhao)<br/><br/>
 [8]. Optimal Purchasing Policy for Fresh Products from Multiple Supply Sources with Considerations of Random Delivery Times, Risk, and Information, **Decision Sciences**. 51(6), 1377-1410,2020.(with X.Xu, X.Cai)<br/><br/>
@@ -50,5 +50,6 @@ redirect_from:
 \*	Parallel machine total weighted completion time. (with Y.Li, R.Li, H.Shen)<br/>
 \*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
+\*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with M.Li, S.Tong, L.Zhang) <br/>
 
 
