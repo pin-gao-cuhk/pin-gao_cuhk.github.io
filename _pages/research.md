@@ -14,6 +14,7 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
+[20] Target-oriented Location-Transportation Problem with service-level Measure. **Transportation Research Part B:Methodological**. Accepted. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [19] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**. Accepted. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
 [18].Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. Forthcoming. 2021. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
 [17].Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. Forthcoming.2021. (with L.Li, M.Li, G.Ke)<br/><br/>
@@ -44,7 +45,6 @@ redirect_from:
 \*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. (with G.Yu, X.Cai, D.Long)<br/>
 \*  Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach.(with M. Fu, X.Li)<br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
-\*	Distributionally Robust Optimization on Location-Transportation Problem. (with X.Wang, Y.Kuo, H.Shen)<br/>
 \*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem. (with Y.Zheng, J.Li, Q.Fu)<br/>
 \*	Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. (with L.Guan, H.Chen, H.Ma)<br/>
 \*	Parallel machine total weighted completion time. (with Y.Li, R.Li, H.Shen)<br/>
