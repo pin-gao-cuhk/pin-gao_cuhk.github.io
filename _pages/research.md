@@ -14,7 +14,7 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
-[21] Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. Forthcoming. 2021.(with L.Guan, H.Chen, H.Ma)<br/>
+[21] Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. Forthcoming. 2021.(with L.Guan, H.Chen, H.Ma)<br/><br/>
 [20] Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. Accepted. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [19] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**. Accepted. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
 [18].Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. Forthcoming. 2021. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
