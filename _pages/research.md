@@ -14,6 +14,7 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
+[21] Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. Forthcoming. 2021.(with L.Guan, H.Chen, H.Ma)<br/>
 [20] Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. Accepted. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [19] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**. Accepted. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
 [18].Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. Forthcoming. 2021. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
@@ -46,7 +47,6 @@ redirect_from:
 \*  Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach.(with M. Fu, X.Li)<br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
 \*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem. (with Y.Zheng, J.Li, Q.Fu)<br/>
-\*	Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. (with L.Guan, H.Chen, H.Ma)<br/>
 \*	Parallel machine total weighted completion time. (with Y.Li, R.Li, H.Shen)<br/>
 \*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
