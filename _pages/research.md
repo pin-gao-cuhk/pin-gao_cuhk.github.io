@@ -39,6 +39,7 @@ redirect_from:
 ### 中文期刊论文
 
 [1]. 基于本地品牌生产外包考虑的跨国公司竞争及转移定价策略研究. **系统工程理论与实践**, 38(9), 2289-2299, 2018.(with X.Zhang, L.Guan, T.Xie)<br/>
+[2]. 软件交付模式和定价策略研究：SWS或SaaS. **管理工程学报**, Accept. (with H. Chen, M. Yu, H. Shen) <br/>
 
 ### Under Revision/Review
 \*	Inventory Routing under Uncertainty, Operations Research. Under major revision.(with Z.Cui, D.Long, J.Qi)<br/>
