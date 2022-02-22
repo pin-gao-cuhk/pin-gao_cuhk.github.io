@@ -14,7 +14,7 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
-[21] Power Structure and Decarbonizing Investment under Innovation Uncertainty: A Triple Bottom Line Analysis. **Transportation Research Part E: Logistics and Transportation Review**. FOrthcoming. 2022. (with W.Niu, H.Shen)<br/><br/>
+[21] Power Structure and Decarbonizing Investment under Innovation Uncertainty: A Triple Bottom Line Analysis. **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022. (with W.Niu, H.Shen)<br/><br/>
 [21] Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. 29(3), 1769-1790, 2022.(with L.Guan, H.Chen, H.Ma)<br/><br/>
 [20] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**.299, 420-431, 2022. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
 [19].Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. 29(2), 760-782, 2022. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
