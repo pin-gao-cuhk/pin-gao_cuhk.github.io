@@ -14,7 +14,7 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
-[23].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, R.Li, H.Shen)<br/>
+[23].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/>
 [22]. The Value of the Physical Internet on the Meals-On-Wheel Delivery Systems, **International Journal of Production Economics**.  Forthcoming. 2022. (with M.Lin, S.Lin, L.Ma)<br/><br/>
 [21] Power Structure and Decarbonizing Investment under Innovation Uncertainty: A Triple Bottom Line Analysis. **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022. (with W.Niu, H.Shen)<br/><br/>
 [21] Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. 29(3), 1769-1790, 2022.(with L.Guan, H.Chen, H.Ma)<br/><br/>
