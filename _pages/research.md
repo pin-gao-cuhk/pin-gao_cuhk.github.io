@@ -14,7 +14,8 @@ redirect_from:
 [1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
-[22]Meiyan Lin, Lijun Ma, Lianmin Zhang, The Value of the Physical Internet on the Meals-On-Wheel Delivery Systems, **International Journal of Production Economics**.  Forthcoming. 2022. (with M.Lin, L.Ma)<br/><br/>
+[23].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, R.Li, H.Shen)<br/>
+[22]. The Value of the Physical Internet on the Meals-On-Wheel Delivery Systems, **International Journal of Production Economics**.  Forthcoming. 2022. (with M.Lin, S.Lin, L.Ma)<br/><br/>
 [21] Power Structure and Decarbonizing Investment under Innovation Uncertainty: A Triple Bottom Line Analysis. **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022. (with W.Niu, H.Shen)<br/><br/>
 [21] Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. 29(3), 1769-1790, 2022.(with L.Guan, H.Chen, H.Ma)<br/><br/>
 [20] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**.299, 420-431, 2022. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
@@ -50,7 +51,6 @@ redirect_from:
 \*  Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach.(with M. Fu, X.Li)<br/>
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
 \*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem. (with Y.Zheng, J.Li, Q.Fu)<br/>
-\*	Parallel machine total weighted completion time. (with Y.Li, R.Li, H.Shen)<br/>
 \*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
