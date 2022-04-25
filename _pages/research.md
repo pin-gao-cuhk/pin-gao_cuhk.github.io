@@ -11,21 +11,21 @@ redirect_from:
 {% include base_path %}
 
 ### Selected Journal Publication
-\*	Inventory Routing under Uncertainty, Operations Research. Under major revision at **Operations Research**.(with Z.Cui, D.Long, J.Qi)<br/><br/>
-\*  Target-based Inventory Pooling Problem. Under major revision at **Production and Operations Management**.(with Z.Cui, J.Ding, D. Long)<br/><br/>
-\*	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
-\*  Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review at **Operations Research**.(with M. Fu, X.Li)<br/><br/>
+[\*]. Inventory Routing under Uncertainty, Operations Research. Under major revision at **Operations Research**.(with Z.Cui, D.Long, J.Qi)<br/><br/>
+[\*]. Target-based Inventory Pooling Problem. Under major revision at **Production and Operations Management**.(with Z.Cui, J.Ding, D. Long)<br/><br/>
+[\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
+[\*]. Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review at **Operations Research**.(with M. Fu, X.Li)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
-[\*].Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. 69(2), 201-222,2022. (with L.Li, M.Li, G.Ke)<br/><br/>
-[\*] Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. 153, 1-20,2021. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
+[\*]. Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. 69(2), 201-222,2022. (with L.Li, M.Li, G.Ke)<br/><br/>
+[\*]. Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. 153, 1-20,2021. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [\*]. Optimal Purchasing Policy for Fresh Products from Multiple Supply Sources with Considerations of Random Delivery Times, Risk, and Information, **Decision Sciences**. 51(6), 1377-1410,2020.(with X.Xu, X.Cai)<br/><br/>
 [\*].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
 [\*]. The Value of the Physical Internet on the Meals-On-Wheel Delivery Systems, **International Journal of Production Economics**.  Forthcoming. 2022. (with M.Lin, S.Lin, L.Ma)<br/><br/>
-[\*] Power Structure and Decarbonizing Investment under Innovation Uncertainty: A Triple Bottom Line Analysis. **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022. (with W.Niu, H.Shen)<br/><br/>
-[\*] Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. 29(3), 1769-1790, 2022.(with L.Guan, H.Chen, H.Ma)<br/><br/>
+[\*]  Power Structure and Decarbonizing Investment under Innovation Uncertainty: A Triple Bottom Line Analysis. **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022. (with W.Niu, H.Shen)<br/><br/>
+[\*]  Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. 29(3), 1769-1790, 2022.(with L.Guan, H.Chen, H.Ma)<br/><br/>
 [\*] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**.299, 420-431, 2022. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
-[19].Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. 29(2), 760-782, 2022. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
-[\*].Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**. 301, 121-141, 2021.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
+[\*]. Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. 29(2), 760-782, 2022. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
+[\*]. Project Scheduling and Resources Allocation Based on Cooperative Games Theory, **Annals of Operations Research**. 301, 121-141, 2021.(with X.Lin, J. Zhou, Y.Zeng)<br/><br/>
 [\*]. Target-Based Project Crashing Problem by Adaptive Distributionally Robust Optimization, **Computer and Industrial Engineering**. 107160, 2021.(with Z.Cui, Y.Li, H.Shen)<br/><br/>
 [\*]. 3PL Firm's Equity Financing for Technology Innovation in a Platform Supply Chain. **Transportation Research Part E: Logistics and Transportation Review.** 147, 102239, 1-20, 2021.(with H.Fu, G.Ke, Z.Lian)<br/><br/>
 [\*]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
