@@ -11,10 +11,10 @@ redirect_from:
 {% include base_path %}
 
 ### Book Chapter
-[1].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
+[\*].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Selected Journal Publication
-[23].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
+[\*].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
 [22]. The Value of the Physical Internet on the Meals-On-Wheel Delivery Systems, **International Journal of Production Economics**.  Forthcoming. 2022. (with M.Lin, S.Lin, L.Ma)<br/><br/>
 [21] Power Structure and Decarbonizing Investment under Innovation Uncertainty: A Triple Bottom Line Analysis. **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022. (with W.Niu, H.Shen)<br/><br/>
 [21] Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. 29(3), 1769-1790, 2022.(with L.Guan, H.Chen, H.Ma)<br/><br/>
@@ -41,8 +41,8 @@ redirect_from:
 
 ### 中文期刊论文
 
-[1]. 基于本地品牌生产外包考虑的跨国公司竞争及转移定价策略研究. **系统工程理论与实践**, 38(9), 2289-2299, 2018.(with X.Zhang, L.Guan, T.Xie)<br/>
-[2]. 软件交付模式和定价策略研究：SWS或SaaS. **管理工程学报**, Accept. (with H. Chen, M. Yu, H. Shen) <br/>
+[\*]. 基于本地品牌生产外包考虑的跨国公司竞争及转移定价策略研究. **系统工程理论与实践**, 38(9), 2289-2299, 2018.(with X.Zhang, L.Guan, T.Xie)<br/>
+[\*]. 软件交付模式和定价策略研究：SWS或SaaS. **管理工程学报**, Accept. (with H. Chen, M. Yu, H. Shen) <br/>
 
 ### Under Revision/Review
 \*	Inventory Routing under Uncertainty, Operations Research. Under major revision.(with Z.Cui, D.Long, J.Qi)<br/>
