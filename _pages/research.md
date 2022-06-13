@@ -40,11 +40,6 @@ redirect_from:
 [\*]. Hidden Markov Models with Threshold Effects and Their Applications to Oil Price Forecasting. **Journal of Industrial and Management Optimization**, 13(2), 757-773, 2017.(with D.Zhu, W.Ching, R.Elliott, T.Siu)<br/><br/>
 [\*]. The Ramsey Numbers for Cycles versus Wheels of Even Order. **European Journal of Combinatorics**, 31(1), 254-259, 2010.(with Y.Chen, E.Cheng)<br/>
 
-%### 中文期刊论文
-
-%[\*]. 基于本地品牌生产外包考虑的跨国公司竞争及转移定价策略研究. **系统工程理论与实践**, 38(9), 2289-2299, 2018.(with X.Zhang, L.Guan, T.Xie)<br/>
-%%[\*]. 软件交付模式和定价策略研究：SWS或SaaS. **管理工程学报**, Accept. (with H. Chen, M. Yu, H. Shen) <br/>
-
 ### Book Chapter
 [\*].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
