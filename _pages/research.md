@@ -40,10 +40,10 @@ redirect_from:
 [\*]. Hidden Markov Models with Threshold Effects and Their Applications to Oil Price Forecasting. **Journal of Industrial and Management Optimization**, 13(2), 757-773, 2017.(with D.Zhu, W.Ching, R.Elliott, T.Siu)<br/><br/>
 [\*]. The Ramsey Numbers for Cycles versus Wheels of Even Order. **European Journal of Combinatorics**, 31(1), 254-259, 2010.(with Y.Chen, E.Cheng)<br/>
 
-//### 中文期刊论文
+%### 中文期刊论文
 
-//[\*]. 基于本地品牌生产外包考虑的跨国公司竞争及转移定价策略研究. **系统工程理论与实践**, 38(9), 2289-2299, 2018.(with X.Zhang, L.Guan, T.Xie)<br/>
-//[\*]. 软件交付模式和定价策略研究：SWS或SaaS. **管理工程学报**, Accept. (with H. Chen, M. Yu, H. Shen) <br/>
+%[\*]. 基于本地品牌生产外包考虑的跨国公司竞争及转移定价策略研究. **系统工程理论与实践**, 38(9), 2289-2299, 2018.(with X.Zhang, L.Guan, T.Xie)<br/>
+%%[\*]. 软件交付模式和定价策略研究：SWS或SaaS. **管理工程学报**, Accept. (with H. Chen, M. Yu, H. Shen) <br/>
 
 ### Book Chapter
 [\*].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
@@ -51,7 +51,7 @@ redirect_from:
 ### Working Papers
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
 \*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem. (with Y.Zheng, J.Li, Q.Fu)<br/>
-\*	Initial Coin Offering with Corporate Investor.(with S.Wang, X.Cai, L.Guan)<br/>
+\*	What Do Institutional Investors Bring to Initial Coin Offerings(ICOs)?(with S.Wang, X.Cai, L.Guan)<br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Pricing Optimization under the Extended Nested Logit Model. (with L.Li, M.Li, H.Zhang) <br/> 
