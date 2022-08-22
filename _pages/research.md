@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ### Selected Journal Publication
-[\*]. Inventory Routing under Uncertainty. Under major revision at **Operations Research**.(with Z.Cui, D.Long, J.Qi)<br/><br/>
+[\*]. Inventory Routing under Uncertainty. Under minor revision at **Operations Research**.(with Z.Cui, D.Long, J.Qi)<br/><br/>
 [\*]. Target-based Inventory Pooling Problem. Under major revision at **Production and Operations Management**.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*]. Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review at **Operations Research**.(with M. Fu, X.Li)<br/><br/>
@@ -19,7 +19,10 @@ redirect_from:
 [\*]. Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. 69(2), 201-222,2022. (with L.Li, M.Li, G.Ke)<br/><br/>
 [\*]. Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. 153, 1-20,2021. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [\*]. Optimal Purchasing Policy for Fresh Products from Multiple Supply Sources with Considerations of Random Delivery Times, Risk, and Information, **Decision Sciences**. 51(6), 1377-1410,2020.(with X.Xu, X.Cai)<br/><br/>
+[\*]. What Do Institutional Investors Bring to Initial Coin Offerings(ICOs)? **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022.(with S.Wang, X.Cai, L.Guan)<br/><br/>
 [\*].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
+[\*].	Demand Forecasts with Judgement Bias in a Newsvendor Problem. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Zheng, J.Li, Q.Fu)<br/><br/>
+[\*]. Is Group-Buying Price Mechanism a Good Choice in the Business-to-Business Systems? **International Transaction of Operations Research**. 2022. (with L.Guan, W.Gu, W.Niu)<br/><br/>
 [\*]. The Value of the Physical Internet on the Meals-On-Wheel Delivery Systems, **International Journal of Production Economics**.  Forthcoming. 2022. (with M.Lin, S.Lin, L.Ma)<br/><br/>
 [\*]  Power Structure and Decarbonizing Investment under Innovation Uncertainty: A Triple Bottom Line Analysis. **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022. (with W.Niu, H.Shen)<br/><br/>
 [\*]  Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce. **International Transaction of Operations Research**. 29(3), 1769-1790, 2022.(with L.Guan, H.Chen, H.Ma)<br/><br/>
@@ -44,11 +47,13 @@ redirect_from:
 [\*].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Working Papers
-\*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie)<br/>
-\*	The Impact of Estimation Bias on the distribution-free Newsvendor Problem. (with Y.Zheng, J.Li, Q.Fu)<br/>
-\*	What Do Institutional Investors Bring to Initial Coin Offerings(ICOs)?(with S.Wang, X.Cai, L.Guan)<br/>
+\*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie, R.Wang)<br/>
+\*	Price Optimization for a Multi-Stage Choice Model.(with J.Shi, G.Ke, Z.Wang)<br/>
+\*	Store Brand Introduction in a Dual-Channel Supply Chain: The Roles of Quality Differentiation and Power Structure.(with W.Niu, Y.Xiao)<br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Pricing Optimization under the Extended Nested Logit Model. (with L.Li, M.Li, H.Zhang) <br/> 
 \*	Price Optimization for a Multi-Stage Choice Model (with J.Shi, G.Ke) <br/> 
 \*	Scenario-based Distributionally Robust Optimization for the Stochastic Inventory Routing Problem.(with Z.Cui, Y.Kuo, R.Li) <br/> 
+\*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
+\*	Managing Product Upgrade Rollover under Demand Uncertainty.(with Z.Cui, Y.Kuo, R.Li) <br/> 
