@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ### Selected Journal Publication
-[\*]. Inventory Routing under Uncertainty. Under minor revision at **Operations Research**.(with Z.Cui, D.Long, J.Qi)<br/><br/>
+[\*]. Inventory Routing under Uncertainty. Forthcoming at **Operations Research**.2022. (with Z.Cui, D.Long, J.Qi)<br/><br/>
 [\*]. Target-based Inventory Pooling Problem. Under major revision at **Production and Operations Management**.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*]. Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review at **Operations Research**.(with M. Fu, X.Li)<br/><br/>
