@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ### Selected Journal Publication
-[\*]. Inventory Routing under Uncertainty. Forthcoming at **Operations Research**.2022. (with Z.Cui, D.Long, J.Qi)<br/><br/>
+[\*]. Inventory Routing Problem under Uncertainty. Forthcoming at **Operations Research**.2022. (with Z.Cui, D.Long, J.Qi)<br/><br/>
 [\*]. Target-based Inventory Pooling Problem. Under major revision at **Production and Operations Management**.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*]. Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review at **Operations Research**.(with M. Fu, X.Li)<br/><br/>
@@ -53,7 +53,7 @@ redirect_from:
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Pricing Optimization under the Extended Nested Logit Model. (with L.Li, M.Li, H.Zhang) <br/> 
-\*	Price Optimization for a Multi-Stage Choice Model (with J.Shi, G.Ke) <br/> 
+\*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
 \*	Scenario-based Distributionally Robust Optimization for the Stochastic Inventory Routing Problem.(with Z.Cui, Y.Kuo, R.Li) <br/> 
 \*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
 \*	Managing Product Upgrade Rollover under Demand Uncertainty.(with Z.Cui, Y.Kuo, R.Li) <br/> 
