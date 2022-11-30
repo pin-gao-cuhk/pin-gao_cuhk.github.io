@@ -16,6 +16,7 @@ redirect_from:
 [\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*]. Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review at **Operations Research**.(with M. Fu, X.Li)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
+[\*]. Pricing Optimization under the Extended Nested Logit Model. Forthcoming at **Operations Research Letters**.2022.(with L.Li, M.Li, H.Zhang) <br/><br/>
 [\*]. Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. 69(2), 201-222,2022. (with L.Li, M.Li, G.Ke)<br/><br/>
 [\*]. Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. 153, 1-20,2021. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [\*]. Optimal Purchasing Policy for Fresh Products from Multiple Supply Sources with Considerations of Random Delivery Times, Risk, and Information, **Decision Sciences**. 51(6), 1377-1410,2020.(with X.Xu, X.Cai)<br/><br/>
@@ -52,8 +53,7 @@ redirect_from:
 \*	Store Brand Introduction in a Dual-Channel Supply Chain: The Roles of Quality Differentiation and Power Structure.(with W.Niu, Y.Xiao)<br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
-\*	Pricing Optimization under the Extended Nested Logit Model. (with L.Li, M.Li, H.Zhang) <br/> 
 \*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
 \*	Scenario-based Distributionally Robust Optimization for the Stochastic Inventory Routing Problem.(with Z.Cui, Y.Kuo, R.Li) <br/> 
 \*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
-\*	Managing Product Upgrade Rollover under Demand Uncertainty.(with Z.Cui, Y.Kuo, R.Li) <br/> 
+
