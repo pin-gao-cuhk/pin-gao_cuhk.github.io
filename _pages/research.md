@@ -51,7 +51,7 @@ redirect_from:
 
 ### Working Papers
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie, R.Wang)<br/>
-\*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
+\*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/> 
 \* Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review.(with M. Fu, X.Li)<br/>
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
