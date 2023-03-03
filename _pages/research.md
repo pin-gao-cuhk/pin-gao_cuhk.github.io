@@ -11,12 +11,13 @@ redirect_from:
 {% include base_path %}
 
 ### Selected Journal Publication
-[\*]. The Inventory Routing Problem under Uncertainty. Forthcoming at **Operations Research**.2022. (with Z.Cui, D.Long, J.Qi)<br/><br/>
+[\*]. The Inventory Routing Problem under Uncertainty. **Operations Research**, 71(1), 378-395, 2023. (with Z.Cui, D.Long, J.Qi)<br/><br/>
 [\*]. Target-based Inventory Pooling Problem. Forthcoming at **Production and Operations Management**.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*]. Price Optimization for a Multi-Stage Choice Model.Under major revision at **Production and Operations Management**.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
 [\*]. Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review.(with M. Fu, X.Li)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
+[\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**. Accepted.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
 [\*]. Store Brand Introduction in a Dual-Channel Supply Chain: The Roles of Quality Differentiation and Power Structure. **OMEGA-The International Journal of Management Science**. 116, 1-12, 102802, 2023.(with Y.Xiao, W.Niu, W.Xue) <br/><br/>
 [\*]. Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. 69(2), 201-222,2022. (with L.Li, M.Li, G.Ke)<br/><br/>
