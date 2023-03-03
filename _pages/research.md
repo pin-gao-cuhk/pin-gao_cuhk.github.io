@@ -15,7 +15,6 @@ redirect_from:
 [\*]. Target-based Inventory Pooling Problem. Forthcoming at **Production and Operations Management**.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*]. Price Optimization for a Multi-Stage Choice Model.Under major revision at **Production and Operations Management**.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
-[\*]. Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review.(with M. Fu, X.Li)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
 [\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**. Accepted.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
@@ -53,6 +52,7 @@ redirect_from:
 ### Working Papers
 \*	Assortment and Pricing Policies for the New Luce Models.(with L.Guan, K.Nie, R.Wang)<br/>
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/>
+\* Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review.(with M. Fu, X.Li)<br/>
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
 \*	Scenario-based Distributionally Robust Optimization for the Stochastic Inventory Routing Problem.(with Z.Cui, Y.Kuo, R.Li) <br/> 
