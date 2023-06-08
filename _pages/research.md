@@ -12,17 +12,18 @@ redirect_from:
 
 ### Selected Journal Publication
 [\*]. The Inventory Routing Problem under Uncertainty. **Operations Research**, 71(1), 378-395, 2023. (with Z.Cui, D.Long, J.Qi)<br/><br/>
-[\*]. Target-based Inventory Pooling Problem. Forthcoming at **Production and Operations Management**.(with Z.Cui, J.Ding, D. Long)<br/><br/>
+[\*]. Target-based Inventory Pooling Problem. Forthcoming at **Production and Operations Management**, 32, 1187-1204, 2023.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under major revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*]. Price Optimization for a Multi-Stage Choice Model.Under major revision at **Production and Operations Management**.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
-[\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**. Accepted.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
+[\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
 [\*]. Store Brand Introduction in a Dual-Channel Supply Chain: The Roles of Quality Differentiation and Power Structure. **OMEGA-The International Journal of Management Science**. 116, 1-12, 102802, 2023.(with Y.Xiao, W.Niu, W.Xue) <br/><br/>
 [\*]. Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. 69(2), 201-222,2022. (with L.Li, M.Li, G.Ke)<br/><br/>
 [\*]. Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. 153, 1-20,2021. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [\*]. Optimal Purchasing Policy for Fresh Products from Multiple Supply Sources with Considerations of Random Delivery Times, Risk, and Information, **Decision Sciences**. 51(6), 1377-1410,2020.(with X.Xu, X.Cai)<br/><br/>
-[\*]. What Do Institutional Investors Bring to Initial Coin Offerings(ICOs)? **Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2022.(with S.Wang, X.Cai, L.Guan)<br/><br/>
+[\*]. Scenario-based Distributionally Robust Optimization for the Stochastic Inventory Routing Problem.**Transportation Research Part E: Logistics and Transportation Review**. Forthcoming. 2023.(with Z.Cui, Y.Kuo, R.Li) <br/><br/>
+[\*]. What Do Institutional Investors Bring to Initial Coin Offerings(ICOs)? **Transportation Research Part E: Logistics and Transportation Review**. 167, 102876, 2022. (with S.Wang, X.Cai, L.Guan)<br/><br/>
 [\*].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
 [\*].	Demand Forecasts with Judgement Bias in a Newsvendor Problem. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Zheng, J.Li, Q.Fu)<br/><br/>
 [\*]. Is Group-Buying Price Mechanism a Good Choice in the Business-to-Business Systems? **International Transaction of Operations Research**. 2022. (with L.Guan, W.Gu, W.Niu)<br/><br/>
@@ -55,6 +56,5 @@ redirect_from:
 \* Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under review.(with M. Fu, X.Li)<br/>
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
-\*	Scenario-based Distributionally Robust Optimization for the Stochastic Inventory Routing Problem.(with Z.Cui, Y.Kuo, R.Li) <br/> 
+\*	Hedging Against Demand Ambiguity in New Product development: a Two-stage Distributionally Robust Approach.(with Y.Li, M.Lin, H.Shen)  <br/> 
 \*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
-\*	Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games. (with Q.Jin, Y.Wu, Y.Zeng) <br/> 
