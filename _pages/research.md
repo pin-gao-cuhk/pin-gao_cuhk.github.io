@@ -43,9 +43,6 @@ redirect_from:
 [\*]. Heterogeneous Suppliers’ Contract Design in Assembly Systems with Asymmetric Information. **European Journal of Operational Research**. 286, 140-163, 2020. (with Y.Lan, X.Cai, C.Shang, R.Zhao)<br/><br/>
 [\*]. Keep It or Give Back? Optimal Pricing Strategy of Reward-based Crowdfunding with Hybrid Mechanism, **International Journal of Production Research**. 58(22), 6868-6889, 2020.(with L.Guan, Y.Mu, X.Xu, J.Zhuang)<br/><br/>
 [\*]. Push or Pull? Perishable Products with Freshness-Keeping Effort, **Asia-Pacific Journal of Operational Research**, 36(1), 1-29, 2019.(with L.Guan, Y.Kuo, H.Shen)<br/><br/>
-[\*]. Stochastic Single Machine Scheduling with Random Resource Arrival Times. **International Journal of Machine Learning and Cybernetics**, 9, 1101-1107, 2018.(with Y.Lin, Y.Xiao, X.Zhang)<br/><br/>
-[\*]. A Higher-order Interactive Hidden Markov Model and Its Applications, **OR Spectrum**, 39(4), 1055- 1069, 2017.(with D.Zhu, W.Ching, R.Elliott, T.Siu)<br/><br/>
-[\*]. Hidden Markov Models with Threshold Effects and Their Applications to Oil Price Forecasting. **Journal of Industrial and Management Optimization**, 13(2), 757-773, 2017.(with D.Zhu, W.Ching, R.Elliott, T.Siu)<br/><br/>
 [\*]. The Ramsey Numbers for Cycles versus Wheels of Even Order. **European Journal of Combinatorics**, 31(1), 254-259, 2010.(with Y.Chen, E.Cheng)<br/>
 
 ### Book Chapter
@@ -56,5 +53,7 @@ redirect_from:
 \*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/> 
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
-\*	Hedging Against Demand Ambiguity in New Product development: a Two-stage Distributionally Robust Approach.(with Y.Li, M.Lin, H.Shen)  <br/> 
+\*	Hedging Against Demand Ambiguity in New Product development: a Two-stage Distributionally Robust Approach.(with Y.Li, M.Lin, H.Shen) <br/> 
 \*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
+\*	How Pricing interacts with Return Insurance in Dual-channel Retailing. (with H.Chen, R.Mao, H.Shen) <br/> 
+\*	Bo Chen, Pengcheng Bai, Jingfeng Lu, Lianmin Zhang, Concealment versus Disclosure in Competitions with Type-dependent Favoritism. (with B.Chen, P.Bai, J.Lu) <br/> 
