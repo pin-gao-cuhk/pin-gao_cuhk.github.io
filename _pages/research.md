@@ -50,10 +50,11 @@ redirect_from:
 [\*].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Working Papers
-\*	ICO with network.(with Z.Liu, X.Cai, F.Xu) <br/> 
+\*	Token Sales Design in Initial Coin Offerings under Network Effect.(with Z.Liu, X.Cai, F.Xu) <br/> 
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
 \*	Hedging Against Demand Ambiguity in New Product development: a Two-stage Distributionally Robust Approach.(with Y.Li, M.Lin, H.Shen) <br/> 
 \*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
 \*	How Pricing interacts with Return Insurance in Dual-channel Retailing. (with H.Chen, R.Mao, H.Shen) <br/> 
 \*	Bo Chen, Pengcheng Bai, Jingfeng Lu, Lianmin Zhang, Concealment versus Disclosure in Competitions with Type-dependent Favoritism. (with B.Chen, P.Bai, J.Lu) <br/> 
+\*	Online Recommendation Algorithms with Uncertain Customer Preferences: Balancing Revenue and Consumer Utility(with X.Zhang, W.Dai, X.Cai) <br/> 
