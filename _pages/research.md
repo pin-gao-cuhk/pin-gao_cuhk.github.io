@@ -14,10 +14,10 @@ redirect_from:
 [\*]. The Inventory Routing Problem under Uncertainty. **Operations Research**, 71(1), 378-395, 2023. (with Z.Cui, D.Long, J.Qi)<br/><br/>
 [\*]. Target-based Inventory Pooling Problem. **Production and Operations Management**, 32, 1187-1204, 2023.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
-[\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Under minor revision at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
+[\*].	Multi-portfolio Optimization：A Target-Oriented Model with Distributional Uncertainty. Forthcoming at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*].	Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under major revision at **Manufacturing and Service Operations Management**.(with M. Fu, X.Li)<br/><br/>
 [\*].	Focal Multinomial Logit Model: Threshold Effects on Consumer Choice, Assortment and Pricing.Under major revision at **Manufacturing and Service Operations Management**. (with L.Guan, K.Nie, R.Wang)<br/>
-[\*]. Price Optimization for a Multi-Stage Choice Model.Under major revision at **Production and Operations Management**.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
+[\*]. Price Optimization for a Multi-Stage Choice Model.Under minor revision at **Production and Operations Management**.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
 [\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
 [\*]. Store Brand Introduction in a Dual-Channel Supply Chain: The Roles of Quality Differentiation and Power Structure. **OMEGA-The International Journal of Management Science**. 116, 1-12, 102802, 2023.(with Y.Xiao, W.Niu, W.Xue) <br/><br/>
