@@ -12,7 +12,7 @@ redirect_from:
 
 ### Selected Journal Publication
 [\*]. The Inventory Routing Problem under Uncertainty. **Operations Research**, 71(1), 378-395, 2023. (with Z.Cui, D.Long, J.Qi)<br/><br/>
-[\*].	Multi-portfolio Optimization：A Fairness-aware Target-oriented Model. Forthcoming at **Manufacturing and Service Operations Management**.(with G.Yu, X.Cai, D.Long)<br/><br/>
+[\*].	Multi-portfolio Optimization：A Fairness-aware Target-oriented Model. **Manufacturing and Service Operations Management**, 26(3), 952-971, 2024.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*]. Target-based Inventory Pooling Problem. **Production and Operations Management**, 32, 1187-1204, 2023.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
 [\*]. Price Optimization for a Multi-Stage Choice Model.Forthcoming at **Production and Operations Management**.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
@@ -21,6 +21,7 @@ redirect_from:
 [\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
 [\*]. Store Brand Introduction in a Dual-Channel Supply Chain: The Roles of Quality Differentiation and Power Structure. **OMEGA-The International Journal of Management Science**. 116, 1-12, 102802, 2023.(with Y.Xiao, W.Niu, W.Xue) <br/><br/>
+[\*].Token Sales Design in Initial Coin Offerings under Network Effect. Forthcoming at **Naval Research Logistics**. (with Z.Liu, X.Cai, F.Xu)<br/><br/> 
 [\*]. Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. 69(2), 201-222,2022. (with L.Li, M.Li, G.Ke)<br/><br/>
 [\*]. Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. 153, 1-20,2021. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [\*]. Optimal Purchasing Policy for Fresh Products from Multiple Supply Sources with Considerations of Random Delivery Times, Risk, and Information, **Decision Sciences**. 51(6), 1377-1410,2020.(with X.Xu, X.Cai)<br/><br/>
@@ -45,10 +46,9 @@ redirect_from:
 [\*].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Working Papers
-\*	Token Sales Design in Initial Coin Offerings under Network Effect.(with Z.Liu, X.Cai, F.Xu) <br/> 
 \*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
 \*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
 \*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
 \*	How Pricing interacts with Return Insurance in Dual-channel Retailing. (with H.Chen, R.Mao, H.Shen) <br/> 
-\*	Bo Chen, Pengcheng Bai, Jingfeng Lu, Lianmin Zhang, Concealment versus Disclosure in Competitions with Type-dependent Favoritism. (with B.Chen, P.Bai, J.Lu) <br/> 
+\*	Concealment versus Disclosure in Competitions with Type-dependent Favoritism. (with B.Chen, P.Bai, J.Lu) <br/> 
 \*	Online Recommendation Algorithms with Uncertain Customer Preferences: Balancing Revenue and Consumer Utility(with X.Zhang, W.Dai, X.Cai) <br/> 
