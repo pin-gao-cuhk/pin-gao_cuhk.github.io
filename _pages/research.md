@@ -13,10 +13,10 @@ redirect_from:
 ### Selected Journal Publication
 [\*]. The Inventory Routing Problem under Uncertainty. **Operations Research**, 71(1), 378-395, 2023. (with Z.Cui, D.Long, J.Qi)<br/><br/>
 [\*].	Multi-portfolio Optimization：A Fairness-aware Target-oriented Model. **Manufacturing and Service Operations Management**, 26(3), 952-971, 2024.(with G.Yu, X.Cai, D.Long)<br/><br/>
+[\*].	Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Forthcoming at **Manufacturing and Service Operations Management**.(with M. Fu, X.Li)<br/><br/>
 [\*]. Target-based Inventory Pooling Problem. **Production and Operations Management**, 32, 1187-1204, 2023.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
 [\*]. Price Optimization for a Multi-Stage Choice Model.Forthcoming at **Production and Operations Management**.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
-[\*].	Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Forthcoming at **Manufacturing and Service Operations Management**.(with M. Fu, X.Li)<br/><br/>
 [\*].	Focal Multinomial Logit Model: Threshold Effects on Consumer Choice, Assortment and Pricing.Under major revision at **Manufacturing and Service Operations Management**. (with L.Guan, K.Nie, R.Wang)<br/><br/>
 [\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
