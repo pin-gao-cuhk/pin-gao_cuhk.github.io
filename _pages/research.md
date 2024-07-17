@@ -16,7 +16,7 @@ redirect_from:
 [\*]. Target-based Inventory Pooling Problem. **Production and Operations Management**, 32, 1187-1204, 2023.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
 [\*]. Price Optimization for a Multi-Stage Choice Model.Forthcoming at **Production and Operations Management**.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
-[\*].	Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Under major revision at **Manufacturing and Service Operations Management**.(with M. Fu, X.Li)<br/><br/>
+[\*].	Data Driven Feature-Based Newsvendor: A Distributionally Robust Approach. Forthcoming at **Manufacturing and Service Operations Management**.(with M. Fu, X.Li)<br/><br/>
 [\*].	Focal Multinomial Logit Model: Threshold Effects on Consumer Choice, Assortment and Pricing.Under major revision at **Manufacturing and Service Operations Management**. (with L.Guan, K.Nie, R.Wang)<br/><br/>
 [\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
@@ -46,7 +46,7 @@ redirect_from:
 [\*].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Working Papers
-\*	Quality and Pricing Optimization under a Reference-dependent Choice Model.(with L.Li, M.Li, S.Tong) <br/>
+\*	Assortment Optimization under Nested Markov Chain Model.(with Y.Liu, W.Ynag, Z.Wang) <br/>
 \*	Distributionally Robust Pricing with Asymmetric Information. (with H.Chen, Y.He, J.Qi) <br/> 
 \*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
 \*	How Pricing interacts with Return Insurance in Dual-channel Retailing. (with H.Chen, R.Mao, H.Shen) <br/> 
